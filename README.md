@@ -7,7 +7,6 @@ I have founded the **Flextype** an **open-source self-hosted Hybrid Content Mana
 I am on a mission to build high quality platform to develop kickass Applications!
 
 Flextype Website: https://flextype.org
-Flextype Awesome List: https://github.com/flextype/awesome
 
 ---
 
