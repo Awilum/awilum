@@ -11,5 +11,5 @@ Flextype Website: https://flextype.org
 ---
 
 My Personal Profiles:
-* Github - https://github.com/awilum
+* Github - https://github.com/Awilum
 * Twitter - https://twitter.com/AwilumIT
