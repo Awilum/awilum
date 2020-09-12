@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
 
-<a href="https://twitter.com/AwilumIT"><img src="icons/twitter.svg"></a>
+<a href="https://twitter.com/AwilumIT"><img width="24" src="twitter.svg" alt="Twitter"></a>
 
 <a href="https://github.com/Awilum">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" />
@@ -13,9 +13,3 @@ I have founded the **Flextype** an **open-source self-hosted Hybrid Content Mana
 I am on a mission to build high quality platform to develop kickass Applications!
 
 Flextype Website: https://flextype.org
-
----
-
-My Personal Profiles:
-* Github - https://github.com/Awilum
-* Twitter - https://twitter.com/AwilumIT
