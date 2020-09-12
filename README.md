@@ -1,6 +1,8 @@
 ### Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
 
-<a href="https://twitter.com/AwilumIT" target="_blank"><img src="https://img.shields.io/twitter/follow/AwilumIT?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+
+<a href="https://twitter.com/AwilumIT" target="_blank"><img src="https://img.shields.io/twitter/follow/AwilumIT?style=for-the-badge&logo=twitter"></a>
+<a href="https://www.patreon.com/awilum" target="_blank"><img alt="Patreon Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=Patreon&style=for-the-badge"></a>
 
 <a href="https://github.com/Awilum">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" />
