@@ -15,6 +15,7 @@ My Personal Profiles:
 * Twitter - https://twitter.com/AwilumIT
 
 ---
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilum&layout=compact" />
+<a href="https://github.com/Awilum">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilum&layout=compact" />
+</a>
