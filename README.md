@@ -13,5 +13,5 @@ I am on a mission to build high quality platform to develop kickass Applications
 <hr>
 
 <a href="https://github.com/Awilum">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" />
 </a>
