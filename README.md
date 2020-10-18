@@ -12,4 +12,6 @@ I have founded the [Flextype](https://github.com/flextype) an **open-source self
 
 <a href="https://github.com/Awilum">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awilum&count_private=true&include_all_commits=true&hide_rank=false&show_icons=true&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awilum">
+
 </a>
