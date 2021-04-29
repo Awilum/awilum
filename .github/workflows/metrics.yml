@@ -34,9 +34,10 @@ jobs:
           plugin_followup: yes
           plugin_gists: yes
           plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
