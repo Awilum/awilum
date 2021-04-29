@@ -38,9 +38,9 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
+          plugin_languages_limit: 10                                   # Display up to 8 languages
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_lines: yes
