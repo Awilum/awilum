@@ -1154,7 +1154,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            5971 Commits
+            5975 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1466,7 +1466,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Use spaces for indents</li>
-                        <li>Mostly push code around 20:00</li>
+                        <li>Mostly push code around 17:00</li>
                         <li>Mostly active on saturday</li>
                     </ul>
                 </div>
@@ -1505,13 +1505,13 @@
               05
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               06
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               07
             </div>
                     <div class="entry">
@@ -1560,8 +1560,8 @@
               16
             </div>
                     <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">11</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               17
             </div>
                     <div class="entry">
@@ -1602,36 +1602,36 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">20</span>
-                <div class="bar" style="height: 43.47826086956522px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 47.61904761904761px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
                 <span class="value">10</span>
-                <div class="bar" style="height: 21.73913043478261px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 23.809523809523807px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 21.73913043478261px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 30.952380952380953px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
                 <span class="value">11</span>
-                <div class="bar" style="height: 23.91304347826087px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 26.190476190476193px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
                 <span class="value">4</span>
-                <div class="bar" style="height: 8.695652173913043px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 9.523809523809524px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 4.3478260869565215px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 4.761904761904762px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">23</span>
+                <span class="value">21</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
@@ -1642,22 +1642,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 44.72%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">56%</span>
+                            <div class="bar" style="width: 45.751999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 23.504%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">29%</span>
+                            <div class="bar" style="width: 24.048%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">30%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 8.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">11%</span>
+                            <div class="bar" style="width: 7.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 3.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.1519999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
@@ -1696,7 +1696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikic/PHP-Parser</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1738,7 +1738,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alex-D/Trumbowyg</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1959,6 +1959,67 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <span class="sha">#93af3d4</span>
+                                        <span class="message">feat(styles): fix textarea min-height property for editor</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">flextype-plugins/trumbowyg</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7da1d67</span>
+                                        <span class="message">feat(js): cleanup and refactor js for editor</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">flextype-plugins/trumbowyg</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#9f66aaf</span>
+                                        <span class="message">feat(settings): update settings for editor</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#653e6f0</span>
+                                        <span class="message">feat(styles): improve styles for editor</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">flextype-plugins/trumbowyg</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <span class="sha">#f92fc13</span>
                                         <span class="message">feat(blocks): add basic code for block</span>
                                     </div>
@@ -1975,67 +2036,6 @@
                       Created new
                       branch <span class="code">dev</span> in <span class="repo">flextype-plugins/trumbowyg</span>
                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">flextype-plugins/blueprints</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#dd6abdf</span>
-                                        <span class="message">feat(blocks): use template options instead of src for blocks</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3f259d7</span>
-                                        <span class="message">feat(settings): set template option for blocks</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/blueprints</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2e96e55</span>
-                                        <span class="message">feat(blocks): remove demo UI template for blocks</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/blueprints</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d82c473</span>
-                                        <span class="message">feat(routes): remove routes</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2092,7 +2092,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.0445565029807 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.04748451569634 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2638,7 +2638,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Moscow</span>
-                <span>Last updated Tue, 04 May 2021 13:13:29 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Tue, 04 May 2021 14:03:18 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
