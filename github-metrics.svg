@@ -1154,7 +1154,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            5670 Commits
+            5674 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1166,7 +1166,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-            139 Issues opened
+            141 Issues opened
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
@@ -1574,8 +1574,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1620,8 +1620,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">14</span>
-                <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">18</span>
+                <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1952,15 +1952,53 @@
                                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                         </svg>
                                         <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/blueprints</span>
+                      Pushed 3 commits in <span class="repo">flextype/flextype</span>
                     </div>
                                     </div>
                                     <div class="details">
                                         <div>on branch <span class="code">dev</span></div>
                                         <div class="commit">
-                                            <span class="sha">#0a31dd8</span>
-                                            <span class="message">feat(blocks): fix issues in the block `Divider` #9</span>
+                                            <span class="sha">#72d34d6</span>
+                                            <span class="message">feat(composer): update composer/semver to 3.2.5</span>
                                         </div>
+                                        <div class="commit">
+                                            <span class="sha">#54dc99b</span>
+                                            <span class="message">feat(composer): update symfony/finder to 5.2.9</span>
+                                        </div>
+                                        <div class="commit">
+                                            <span class="sha">#e732926</span>
+                                            <span class="message">feat(composer): update symfony/yaml to 5.2.9</span>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        </svg>
+                                        <div class="content">
+                      Opened <span class="issue">#548 Upgrade to League Glide 2</span>
+                    </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>opened  in <span class="repo">flextype/flextype</span></div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="row fill-width">
+                                <section class="activity">
+                                    <div class="field">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                        </svg>
+                                        <div class="content">
+                      Opened <span class="issue">#547 Upgrade to Common Mark 1.6.2</span>
+                    </div>
+                                    </div>
+                                    <div class="details">
+                                        <div>opened  in <span class="repo">flextype/flextype</span></div>
                                     </div>
                                 </section>
                             </div>
@@ -1971,14 +2009,14 @@
                                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                         </svg>
                                         <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/blueprints</span>
+                      Pushed 1 commit in <span class="repo">flextype/flextype</span>
                     </div>
                                     </div>
                                     <div class="details">
                                         <div>on branch <span class="code">dev</span></div>
                                         <div class="commit">
-                                            <span class="sha">#81be3f4</span>
-                                            <span class="message">feat(blocks): fix value in the block `InputSubmit` #20</span>
+                                            <span class="sha">#4702e64</span>
+                                            <span class="message">feat(composer): update filp/whoops to 2.12.1</span>
                                         </div>
                                     </div>
                                 </section>
@@ -1990,52 +2028,14 @@
                                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                         </svg>
                                         <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/admin</span>
+                      Pushed 1 commit in <span class="repo">flextype-plugins/acl</span>
                     </div>
                                     </div>
                                     <div class="details">
-                                        <div>on branch <span class="code">2.0</span></div>
+                                        <div>on branch <span class="code">dev</span></div>
                                         <div class="commit">
-                                            <span class="sha">#2680950</span>
-                                            <span class="message">feat(templates): update base admin layout</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/admin</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">2.0</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#443bb4b</span>
-                                            <span class="message">feat(templates): show entry ID if entry title isn't exists</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">flextype-plugins/admin</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">2.0</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#25f30ad</span>
-                                            <span class="message">feat(lang): update translate `admin_select_entry_blueprint`</span>
+                                            <span class="sha">#da9905f</span>
+                                            <span class="message">chore(plugin): update icon section</span>
                                         </div>
                                     </div>
                                 </section>
@@ -2093,7 +2093,7 @@
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="171.91984189462838 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="171.92431280612635 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2639,7 +2639,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions, timezone Europe/Moscow</span>
-                    <span>Last updated Wed, 26 May 2021 15:09:35 GMT with lowlighter/metrics@3.9.0</span>
+                    <span>Last updated Wed, 26 May 2021 16:24:34 GMT with lowlighter/metrics@3.9.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
