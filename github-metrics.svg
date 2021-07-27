@@ -1748,22 +1748,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 58.025030707432855%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 58.414984087233265%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">73%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 21.052352023370847%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 20.67877080398602%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">26%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Hack</span>
-                            <div class="bar" style="width: 0.7712379245095111%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7575520425731725%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.15137934468678418%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14869306620754422%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1797,7 +1797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dantleech/fink</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2196,7 +2196,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.1788859219305 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.18196100672247 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2742,7 +2742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27/07/2021, 16:14 (timezone Europe/Moscow) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 27/07/2021, 17:06 (timezone Europe/Moscow) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
