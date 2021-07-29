@@ -1748,22 +1748,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 64.75095006056347%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">81%</span>
+                            <div class="bar" style="width: 61.007220757085435%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">76%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 14.659133988590028%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">18%</span>
+                            <div class="bar" style="width: 18.258035539483835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Hack</span>
-                            <div class="bar" style="width: 0.4845077715416408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.6034572109681803%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.1054081793048608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.13128649246254304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1797,7 +1797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phpbench/phpbench</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2205,7 +2205,7 @@ documentation: https://php-di.org/doc/container.html</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.35177235768646 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="177.35534654680367 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2751,7 +2751,7 @@ documentation: https://php-di.org/doc/container.html</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/07/2021, 17:05 (timezone Europe/Moscow) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 29/07/2021, 18:06 (timezone Europe/Moscow) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
