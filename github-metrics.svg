@@ -1859,7 +1859,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabiospampinato/cash</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2262,7 +2262,7 @@
                                                 </defs>
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                    <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.237771815670957 155"/>
+                                                    <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.24135031820777 155"/>
                                                 </svg>
                                                 <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                     <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2892,7 +2892,7 @@
                         </section>
                         <footer>
                             <span>These metrics include private contributions</span>
-                            <span>Last updated 20/08/2021, 22:02 (timezone Europe/Moscow) with lowlighter/metrics@3.13.0</span>
+                            <span>Last updated 20/08/2021, 23:03 (timezone Europe/Moscow) with lowlighter/metrics@3.13.0</span>
                         </footer>
                     </section>
                     <div id="metrics-end"></div>
