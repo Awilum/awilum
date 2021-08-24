@@ -10,12 +10,12 @@ I have founded the [Flextype](https://github.com/flextype) an **open-source self
 
 #### CODERS RANK
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=awilum&badges=10&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=awilum&branding=false&badges=10&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
 />
 
 #### TECH SKILLS
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&skills=php,css,html,javascript,yacc,c,json,&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&branding=false&skills=php,css,html,javascript,yacc,c,json,&width=820"
 />
 
 🏆 [Most active GitHub user in Russia!](https://commits.top/russia.html)
