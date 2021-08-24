@@ -8,4 +8,8 @@ I'm Sergey Romanenko a web-developer with strong will for learning and researchi
 
 I have founded the [Flextype](https://github.com/flextype) an **open-source self-hosted Hybrid Content Management System** with the freedom of a Headless CMS with the full functionality of a Traditional CMS and [Atomastic](https://github.com/atomastic) a set of decoupled and reusable **PHP building blocks for kickass Web Applications**.
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&skills=php,css,html,javascript,yacc,c,json,&width=820"
+/>
+
 🏆 [Most active GitHub user in Russia!](https://commits.top/russia.html)
