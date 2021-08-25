@@ -18,5 +18,5 @@ I have founded the [Flextype](https://github.com/flextype) an **open-source self
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&branding=false&skills=php,css,html,javascript,yacc,c,json,&width=820"
 />
 
-🏆 [Most active GitHub user in Russia!](https://commits.top/russia.html)
+🏆 [Most active GitHub user in Russia!](https://commits.top/russia.html)  
 🤖 [Coders Rank Profile](https://profile.codersrank.io/user/awilum)
