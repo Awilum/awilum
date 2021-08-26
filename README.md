@@ -16,5 +16,5 @@ I have founded the [Flextype](https://github.com/flextype) an **open-source self
 
 #### TECH SKILLS
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&branding=false&skills=php,css,html,javascript,yacc,c,json,&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&branding=false&skills=scss,shell,less,typescript,php,css,html,javascript,yacc,c,json,&width=820"
 />
