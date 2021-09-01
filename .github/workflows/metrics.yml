@@ -31,7 +31,7 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot]
-          plugin_followup: yes
+          #plugin_followup: yes
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
