@@ -18,3 +18,5 @@ I have founded the [Flextype](https://github.com/flextype) an **open-source self
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=awilum&branding=false&skills=scss,shell,less,typescript,php,css,html,javascript,yacc,c,json,&width=820"
 />
+
+<img src="github-metrics.svg">
