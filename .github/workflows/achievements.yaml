@@ -14,6 +14,11 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
+          extras_css: |
+            .achievements {
+              display: flex;
+            } 
+          
           plugin_achievements: yes
           plugin_achievements_threshold: C        # Display achievements with rank B or higher
           plugin_achievements_secrets: yes        # Display unlocked secrets achievements
