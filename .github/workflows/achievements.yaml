@@ -17,3 +17,5 @@ jobs:
           template: markdown
           markdown: template.json
           filename: data.json
+          
+          plugin_lines: yes
