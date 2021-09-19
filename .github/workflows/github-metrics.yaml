@@ -14,11 +14,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # settings
-          template: markdown
+          template: classic
           filename: github-metrics.json
           config_output: json
         
           # plugins
           plugin_lines: yes
+          
       
 
