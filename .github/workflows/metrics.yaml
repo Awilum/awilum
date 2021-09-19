@@ -15,8 +15,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           template: markdown
-          markdown: template.json
+          #markdown: template.json
           filename: data.json
+          config_output: json
           
           #template: classic
           
