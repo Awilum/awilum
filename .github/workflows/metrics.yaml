@@ -17,7 +17,6 @@ jobs:
           template: markdown
           markdown: template.json
           filename: data.json
-          config_output: markdown
           
           #template: classic
           
