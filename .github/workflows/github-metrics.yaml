@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           template: markdown
-          filename: data.json
+          filename: github-metrics.json
           config_output: json
           
           plugin_lines: yes
