@@ -16,10 +16,4 @@ jobs:
           
           template: markdown
           markdown: template.json
-          filename: data.json  
-          
-          plugin_achievements: yes
-          plugin_achievements_threshold: C        # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes        # Display unlocked secrets achievements
-          plugin_achievements_limit: 0            # Display all unlocked achievement matching threshold and secrets params
-          plugin_achievements_display: detailed   # Use compact display
+          filename: data.json
