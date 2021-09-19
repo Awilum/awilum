@@ -1,4 +1,4 @@
-name: Metrics
+name: Github Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -15,11 +15,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           template: markdown
-          #markdown: template.json
           filename: data.json
           config_output: json
-          
-          #template: classic
           
           plugin_lines: yes
       
