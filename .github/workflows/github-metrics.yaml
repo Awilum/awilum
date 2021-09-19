@@ -18,8 +18,12 @@ jobs:
           filename: github-metrics.json
           config_output: json
         
-          # plugins
+          # plugin: lines
           plugin_lines: yes
+          
+          # plugin: languages
+          plugin_languages: yes
+          plugin_languages_limit: 30
           
       
 
