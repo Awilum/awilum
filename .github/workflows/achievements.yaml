@@ -8,6 +8,16 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps: []
+    steps: 
+      - uses: lowlighter/metrics@latest
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          template: markdown
+          markdown: template.json
+          filename: data.json
+          
+          plugin_lines: yes
       
 
