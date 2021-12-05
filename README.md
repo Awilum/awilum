@@ -7,10 +7,10 @@
 
 I'm Sergey Romanenko a web-developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 
-I have founded:
+**I have founded:**
 
 [Flextype](https://github.com/flextype)  
-**Open-source self-hosted Hybrid Content Management System** with the freedom of a Headless CMS with the full functionality of a Traditional CMS
+Open-source self-hosted Hybrid Content Management System** with the freedom of a Headless CMS with the full functionality of a Traditional CMS
 
 [Atomastic](https://github.com/atomastic)  
 Set of decoupled and reusable **PHP building blocks for kickass Web Applications**, 
