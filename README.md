@@ -12,11 +12,11 @@ I'm Sergey Romanenko a web-developer with strong will for learning and researchi
 [Flextype](https://github.com/flextype)  
 Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.
 
-[Atomastic](https://github.com/atomastic)  
-Set of decoupled and reusable PHP building blocks for kickass Web Applications. 
-
-[Termage](https://github.com/termage)  
+[Thermage](https://github.com/thermage)  
 Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 
-[Glowycss](https://github.com/glowycss)  
+[Glowy PHP](https://github.com/glowyphp)  
+Set of decoupled and reusable PHP building blocks for kickass Web Applications. 
+
+[Glowy CSS](https://github.com/glowycss)  
 Totally RAD utility-first CSS framework packed into CSS Variables.
