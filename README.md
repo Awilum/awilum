@@ -17,6 +17,3 @@ Fluent and incredibly powerful object-oriented interface for customizing CLI out
 
 [Glowy PHP](https://github.com/glowyphp)  
 Set of decoupled and reusable PHP building blocks for kickass Web Applications. 
-
-[Glowy CSS](https://github.com/glowycss)  
-Totally RAD utility-first CSS framework packed into CSS Variables.
