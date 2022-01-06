@@ -17,3 +17,6 @@ Fluent and incredibly powerful object-oriented interface for customizing CLI out
 
 [Glowy PHP](https://github.com/glowyphp)  
 Set of decoupled and reusable PHP building blocks for kickass Web Applications. 
+
+[Glowy JS](https://github.com/glowyjs)  
+A set of decoupled and reusable JavaScript building blocks for kickass Applications.
