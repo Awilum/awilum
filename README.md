@@ -20,3 +20,6 @@ Set of decoupled and reusable PHP building blocks for kickass Web Applications.
 
 [Glowy JS](https://github.com/glowyjs)  
 A set of decoupled and reusable JavaScript building blocks for kickass Applications.
+
+[Faker Javascript](https://github.com/faker-javascript)  
+A set of decoupled and reusable packages that generates fake data for you.
