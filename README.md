@@ -26,4 +26,4 @@ A set of decoupled and reusable packages that generates fake data for you.
 
 
 ## My Skills
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=20&skills=javascript,php,yaml,json,typescript,html,less,css,scss,shell">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=20&skills=javascript,php,json,typescript,html,less,css,scss,shell">
