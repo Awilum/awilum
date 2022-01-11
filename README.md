@@ -7,19 +7,23 @@
 
 I'm Sergey Romanenko a web-developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 
-**I have founded:**
+## My Open Source Projects
 
 [Flextype](https://github.com/flextype)  
-Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.
+Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<hr>
 
 [Thermage](https://github.com/thermage)  
-Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.<hr>
 
 [Glowy PHP](https://github.com/glowyphp)  
-Set of decoupled and reusable PHP building blocks for kickass Web Applications. 
+Set of decoupled and reusable PHP building blocks for kickass Web Applications.<hr> 
 
 [Glowy JS](https://github.com/glowyjs)  
-A set of decoupled and reusable JavaScript building blocks for kickass Applications.
+A set of decoupled and reusable JavaScript building blocks for kickass Applications.<hr>
 
 [Faker Javascript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
+
+
+## My Skills
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=20">
