@@ -23,6 +23,6 @@ A set of decoupled and reusable packages that generates fake data for you.
 
 
 ## My Skills
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,json,typescript,html,less,css,scss,shell">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,typescript,html,less,css,scss,shell">
 
 ![](https://hit.yhype.me/github/profile?user_id=477114)
