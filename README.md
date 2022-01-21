@@ -25,19 +25,22 @@ A set of decoupled and reusable packages that generates fake data for you.
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,typescript,html,less,css,scss,shell">
 
 ## My Work Experiences (2005 - present)
-↳ Full Stack Web Development and IT Consulting.
-↳ Open-Source Development.
-↳ Software Architect and Project Management.
-↳ Frontend and backend automation.
-↳ Frontend and backend architecture development.
-↳ Projects documentation development.
-↳ Projects localization.
-↳ Localization Testing.
-↳ API Testing.
-↳ Unit Testing.
-↳ Manual Testing.
-↳ Peromance Testing.
-↳ UI/UX Testing.
+Full Stack Web Development and IT Consulting.
+Open-Source Development.
+Software Architect and Project Management.
+Frontend and backend automation.
+Frontend and backend architecture development.
+Projects documentation development.
+Projects localization.
+Localization Testing.
+API Testing.
+Unit Testing.
+Manual Testing.
+Peromance Testing.
+UI/UX Testing.
+Web interfaces standardisation.
+Modular development.
+Emails development.
 
 ![](https://hit.yhype.me/github/profile?user_id=477114)
 
