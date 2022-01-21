@@ -21,11 +21,8 @@ Set of decoupled and reusable PHP building blocks for kickass Web Applications.<
 [The New Faker for Javascript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
 
-
 ## My Skills
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,typescript,html,less,css,scss,shell">
-
-![](https://hit.yhype.me/github/profile?user_id=477114)
 
 ## My Work Experiences (2005 - present)
 ↳ Full Stack Web Development and IT Consulting.
@@ -41,3 +38,6 @@ A set of decoupled and reusable packages that generates fake data for you.
 ↳ Manual Testing.
 ↳ Peromance Testing.
 ↳ UI/UX Testing.
+
+![](https://hit.yhype.me/github/profile?user_id=477114)
+
