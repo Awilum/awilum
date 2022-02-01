@@ -5,7 +5,7 @@
 <a href="https://profile.codersrank.io/user/awilum"><img alt="Coders Rank" src="https://img.shields.io/static/v1?label=CODERSRANK&message=profile&style=for-the-badge"></a>
 <a href="https://committers.top/russia"><img alt="Most active GitHub user in Russia" src="https://img.shields.io/static/v1?label=Most active GitHub user&message=Russia&style=for-the-badge"></a>
 
-I'm Sergey Romanenko a web-developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
+I'm Sergey Romanenko a full stack developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 
 ## My Open Source Projects
 
