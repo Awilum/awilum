@@ -17,7 +17,7 @@ Fluent and incredibly powerful object-oriented interface for customizing CLI out
 [Glowy PHP](https://github.com/glowyphp)  
 Set of decoupled and reusable PHP building blocks for kickass Web Applications.<hr>
 
-[The New Faker for Javascript](https://github.com/faker-javascript)  
+[The New Faker for JavaScript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
 
 ## My Skills
