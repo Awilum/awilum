@@ -16,8 +16,8 @@ jobs:
           # settings
           user: Awilum
           template: classic
-          filename: github-metrics.json
-          config_output: json
+          #filename: github-metrics.json
+          #config_output: json
           config_timezone: Europe/Moscow
           base: header, activity, community, repositories, metadata
           commits_authoring: Awilum, hello@romanenko.digital, sergey.romanenko@flextype.org, 477114+awilum@users.noreply.github.com, support@flextype.org, awilum@msn.com, awilum@yandex.ru
