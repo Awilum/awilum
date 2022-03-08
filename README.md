@@ -1,6 +1,5 @@
 ## Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
 
-<a href="https://www.patreon.com/awilum"><img alt="Patreon Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=Patreon&style=for-the-badge"></a>
 <a href="https://twitter.com/_awilum"><img src="https://img.shields.io/twitter/follow/_awilum?style=for-the-badge&logo=twitter"></a>
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
