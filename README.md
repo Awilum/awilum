@@ -1,6 +1,12 @@
 ## Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
 
-<a href="https://twitter.com/_awilum"><img src="https://img.shields.io/twitter/follow/_awilum?style=for-the-badge&logo=twitter"></a>
+<h2>
+<a href="https://awilum.github.io">AWILUM</a> ⇨ 
+<a href="https://awilum.github.io/blog">BLOG</a> •   
+<a href="https://awilum.github.io/sponsors">SPONSORS</a> •  
+<a href="https://awilum.github.io/about">ABOUT</a> •  
+<a href="https://keybase.io/awilum">KEYBASE</a>
+</h2>
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 
