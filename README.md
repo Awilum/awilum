@@ -1,5 +1,3 @@
-## Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
-
 <h2>
 <a href="https://awilum.github.io">AWILUM</a> ⇨ 
 <a href="https://awilum.github.io/blog">BLOG</a> •   
