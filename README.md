@@ -8,7 +8,7 @@
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 
-## My Open Source Projects
+## MY OPEN SOURCE PROJECTS
 
 [Flextype](https://github.com/flextype)  
 Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<hr>
@@ -22,10 +22,10 @@ Set of decoupled and reusable PHP building blocks for kickass Web Applications.<
 [The New Faker for JavaScript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
 
-## My Skills
+## MY SKILLS 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,typescript,html,less,css,scss,shell">
 
-## My Work Experiences (2005 - present)
+## MY WORK EXPERIENCES (2005 - present)
 Full Stack Web Development and IT Consulting.
 Open-Source Development.
 Software Architect and Project Management.
