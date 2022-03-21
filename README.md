@@ -2,8 +2,7 @@
 <a href="https://awilum.github.io">AWILUM</a> ⇨ 
 <a href="https://awilum.github.io/blog">BLOG</a> •   
 <a href="https://awilum.github.io/sponsors">SPONSORS</a> •  
-<a href="https://awilum.github.io/about">ABOUT</a> •  
-<a href="https://keybase.io/awilum">KEYBASE</a>
+<a href="https://awilum.github.io/about">ABOUT</a>
 </h2>
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
