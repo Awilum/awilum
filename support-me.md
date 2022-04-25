@@ -23,7 +23,7 @@ Developing open-source software is a passion of mine. It requires a significant 
 ➡️  Share a code, ideas and report bugs.  
 ➡️  Create extensions and packages, share with community.  
    
-6️⃣  **Become a sponsor to support ongoing development.**.  
+6️⃣  **Become a sponsor to support ongoing development.**  
 ➡️  https://awilum.github.io/sponsors/   
  
 **Thanks!**  
