@@ -18,7 +18,7 @@ Developing open-source software is a passion of mine. It requires a significant 
 ➡️  https://www.linkedin.com/in/sergey-romanenko/  
 ➡️  https://www.linkedin.com/in/sergey-romanenko/details/skills/  
 
-5️⃣  **Be proactive.**
+5️⃣  **Be proactive.**  
 ➡️  Write a post, tweet about Flextype, Thermage or Glowy PHP.  
 ➡️  Share a code, ideas and report bugs.  
 ➡️  Create extensions and packages, share with community.  
