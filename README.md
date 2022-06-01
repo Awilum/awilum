@@ -1,12 +1,9 @@
 <h2>
-<a href="https://awilum.github.io">AWILUM</a> ⇨ 
-<a href="https://awilum.github.io/blog">BLOG</a> •   
-<a href="https://awilum.github.io/sponsors">SPONSORS</a> •  
-<a href="https://awilum.github.io/about">ABOUT</a>  •  
-<a href="https://github.com/Awilum/awilum/blob/master/support-me.md">SUPPORT ME ❤ </a>  
+<a href="https://awilum.github.io">AWILUM</a>
 </h2>
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
+<br><br><br>
 
 ## MY OPEN SOURCE PROJECTS
 
@@ -21,9 +18,11 @@ Set of decoupled and reusable PHP building blocks for kickass Web Applications.<
 
 [The New Faker for JavaScript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
+<br><br><br>
 
 ## MY SKILLS 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Awilum&padding=10&skills=javascript,php,typescript,html,less,css,scss,shell">
+<br><br><br>
 
 ## MY WORK EXPERIENCES (2005 - present)
 Full Stack Web Development and IT Consulting.
@@ -42,6 +41,7 @@ UI/UX Testing.
 Web interfaces standardisation.
 Modular development.
 Emails development.
+<br><br><br>
 
 ## SUPPORT ME ❤
 
