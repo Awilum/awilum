@@ -11,7 +11,7 @@ Developing open-source software is a passion of mine. It requires a significant 
 2️⃣  **Follow me and my projects on Twitter.**  
 ➡️  https://twitter.com/_awilum  
 ➡️  https://twitter.com/_thermage  
-➡️  https://twitter.com/getflextype  
+➡️  https://twitter.com/_flextype  
 ➡️  https://twitter.com/glowyphp  
  
 3️⃣  **Make a connection with me on LinkedIn and endorse my skills.**  
