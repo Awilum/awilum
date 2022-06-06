@@ -1,5 +1,5 @@
 <h2>
-Hi there, I'm <a href="https://github.com/Awilum">Sergey Romanenko</a> 👋
+Hi there 👋
 </h2>
 
 <img width="400" align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Awilum">
