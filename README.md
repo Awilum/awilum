@@ -7,14 +7,14 @@ I'm Sergey Romanenko a developer with strong will for learning and researching n
 
 ## MY OPEN SOURCE PROJECTS
 
+[Glowy PHP](https://github.com/glowyphp)  
+Set of decoupled and reusable PHP building blocks for kickass Web Applications.<hr>
+
 [Flextype](https://github.com/flextype)  
 Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<hr>
 
 [Thermage](https://github.com/thermage)  
 Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.<hr>
-
-[Glowy PHP](https://github.com/glowyphp)  
-Set of decoupled and reusable PHP building blocks for kickass Web Applications.<hr>
 
 [The New Faker for JavaScript](https://github.com/faker-javascript)  
 A set of decoupled and reusable packages that generates fake data for you.
