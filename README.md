@@ -2,7 +2,7 @@
 Hi there 👋
 </h2>
 
-<img width="400" align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Awilum">
+<!--<img width="400" align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Awilum">-->
 
 I'm Sergey Romanenko a developer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams. <br><br>
 ➡️ <a href="https://github.com/Awilum">GITHUB</a> / <a href="https://twitter.com/_awilum">TWITTER</a> / <a href="https://www.linkedin.com/in/sergey-romanenko/">LINKEDIN</a> / <a href="awilum@msn.com">EMAIL</a> / <a href="https://awilum.github.io/sergey-romanenko-cv.pdf">DOWNLOAD CV</a>
