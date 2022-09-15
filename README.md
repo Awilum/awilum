@@ -12,17 +12,39 @@ I'm Sergey Romanenko a developer with strong will for learning and researching n
 
 ## MY OPEN SOURCE PROJECTS
 
-[Glowy PHP](https://github.com/glowyphp)  
-Set of decoupled and reusable PHP building blocks for kickass Web Applications.<hr>
+<table>
+<tr>
+ <td>Project</td>
+ <td>Description</td>
+</tr>
+<tr>
+ <td width=200><a href="https://github.com/flextype">Flextype</a></td>
+ <td>
+ Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<br><br>
+ <b>Plugins</b>: <a href="https://github.com/flextype-plugins/site">Site</a>, <a href="https://github.com/flextype-plugins/twig">Twig</a>, <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a>, <a href="https://github.com/flextype-plugins/feed">Feed</a>
+ </td>
+</tr>
+<tr>
+ <td width=200><a href="https://github.com/glowyphp">Glowy PHP</a></td>
+ <td>
+ Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
+ <b>Packages</b>: <a href="https://github.com/glowyphp/arrays">Arrays</a>, <a href="https://github.com/glowyphp/strings">Strings</a>, <a href="https://github.com/glowyphp/session">Session</a>, <a href="https://github.com/glowyphp/filesystem">Filesystem</a>, <a href="https://github.com/glowyphp/macroable">Macroable</a>, <a href="https://github.com/glowyphp/view">View</a>, <a href="https://github.com/glowyphp/registry">Registry</a>
+ </td>
+</tr>
+<tr>
+ <td width=200><a href="https://github.com/thermage">Thermage</a></td>
+ <td>
+ Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+ </td>
+</tr>
+<tr>
+ <td width=200><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></td>
+ <td>
+ A set of decoupled and reusable packages that generates fake data for you.
+ </td>
+</tr>
+</table>
 
-[Flextype](https://github.com/flextype)  
-Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<hr>
-
-[Thermage](https://github.com/thermage)  
-Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.<hr>
-
-[The New Faker for JavaScript](https://github.com/faker-javascript)  
-A set of decoupled and reusable packages that generates fake data for you.
 <br><br><br>
 
 ## MY SKILLS 
