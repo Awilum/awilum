@@ -21,7 +21,8 @@ I'm Sergey Romanenko a developer with strong will for learning and researching n
  <td width=200><a href="https://github.com/flextype">Flextype</a></td>
  <td>
  Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<br><br>
- <b>Plugins</b>: <a href="https://github.com/flextype-plugins/site">Site</a>, <a href="https://github.com/flextype-plugins/twig">Twig</a>, <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a>, <a href="https://github.com/flextype-plugins/feed">Feed</a>
+ <b>Plugins</b>: <a href="https://github.com/flextype-plugins/site">Site</a>, <a href="https://github.com/flextype-plugins/twig">Twig</a>, <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a>, <a href="https://github.com/flextype-plugins/feed">Feed</a><br>
+ <b>Starter Kits</b>: <a href="https://github.com/flextype-starter-kits/clean">Clean</a>, <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> 
  </td>
 </tr>
 <tr>
