@@ -67,6 +67,12 @@ I also actively participate in developing, supporting and testing open source pr
 <b>Packages</b>: <a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>          
  </td>
 </tr>
+<tr>
+ <td width=200><a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a></td>
+ <td>
+Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.
+ </td>
+</tr>
 </table>
 
 <br>
