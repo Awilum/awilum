@@ -42,7 +42,7 @@ I also actively participate in developing, supporting and testing open source pr
 <tr>
  <td width=200><a href="https://github.com/flextype">Flextype</a></td>
  <td>
- Open-source self-hosted Hybrid Content Management System with the freedom of a Headless CMS with the full functionality of a Traditional CMS.<br><br>
+ Modern Open Source Flat Files Content Management System.<br><br>
  <b>Plugins</b>: <a href="https://github.com/flextype-plugins/site">Site</a>, <a href="https://github.com/flextype-plugins/twig">Twig</a>, <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a>, <a href="https://github.com/flextype-plugins/feed">Feed</a><br>
  <b>Starter Kits</b>: <a href="https://github.com/flextype-starter-kits/clean">Clean</a>, <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> 
  </td>
@@ -63,7 +63,8 @@ I also actively participate in developing, supporting and testing open source pr
 <tr>
  <td width=200><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></td>
  <td>
- A set of decoupled and reusable packages that generates fake data for you.
+ A set of decoupled and reusable packages that generates fake data for you.<br><br>
+<b>Packages</b>: <a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>.          
  </td>
 </tr>
 </table>
