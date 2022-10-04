@@ -43,15 +43,35 @@ I also actively participate in developing, supporting and testing open source pr
  <td width=200><a href="https://github.com/flextype">Flextype</a></td>
  <td>
  Modern Open Source Flat Files Content Management System.<br><br>
- <b>Plugins</b>: <a href="https://github.com/flextype-plugins/site">Site</a>, <a href="https://github.com/flextype-plugins/twig">Twig</a>, <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a>, <a href="https://github.com/flextype-plugins/feed">Feed</a><br>
- <b>Starter Kits</b>: <a href="https://github.com/flextype-starter-kits/clean">Clean</a>, <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> 
+<b>Plugins</b>
+<hr>
+<a href="https://github.com/flextype-plugins/site">Site</a> - Display entries content on the website frontend.<br>
+<a href="https://github.com/flextype-plugins/twig">Twig</a> - Present Twig template engine for Flextype.<br>
+<a href="https://github.com/flextype-plugins/sitemap">Sitemap</a> - Provide automatically generated XML sitemap for Flextype. <br>
+<a href="https://github.com/flextype-plugins/feed">Feed</a> - Supports Atom 1.0, RSS and JSON feed types and allows you to generate feeds for entries.<br>
+<br>
+<b>Starter Kits</b>
+<hr>
+<a href="https://github.com/flextype-starter-kits/clean">Clean</a> - Minimalist Starter Kit for a blog or personal site. <br>
+<a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> - Minimalist Starter Kit for a documentation site.
+<br><br> 
  </td>
 </tr>
 <tr>
  <td width=200><a href="https://github.com/glowyphp">Glowy PHP</a></td>
  <td>
  Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
- <b>Packages</b>: <a href="https://github.com/glowyphp/arrays">Arrays</a>, <a href="https://github.com/glowyphp/strings">Strings</a>, <a href="https://github.com/glowyphp/session">Session</a>, <a href="https://github.com/glowyphp/filesystem">Filesystem</a>, <a href="https://github.com/glowyphp/macroable">Macroable</a>, <a href="https://github.com/glowyphp/view">View</a>, <a href="https://github.com/glowyphp/registry">Registry</a>, <a href="https://github.com/glowyphp/csrf">Csrf</a>
+ <b>Packages</b>
+<hr>
+<a href="https://github.com/glowyphp/arrays">Arrays</a> - Arrays Package provide a fluent, object-oriented interface for working with arrays, allowing you to chain multiple arrays operations together using a more readable syntax compared to traditional PHP arrays functions.<br>
+<a href="https://github.com/glowyphp/strings">Strings</a> - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br>
+<a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br>
+<a href="https://github.com/glowyphp/filesystem">Filesystem</a> - Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br>
+<a href="https://github.com/glowyphp/macroable">Macroable</a> - Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br>
+<a href="https://github.com/glowyphp/view">View</a> - View Package provides basic methods for creating extendable PHP Views.<br>
+<a href="https://github.com/glowyphp/registry">Registry</a> - Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br>
+<a href="https://github.com/glowyphp/csrf">Csrf</a> - Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
+<br><br> 
  </td>
 </tr>
 <tr>
@@ -64,7 +84,10 @@ I also actively participate in developing, supporting and testing open source pr
  <td width=200><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></td>
  <td>
  A set of decoupled and reusable packages that generates fake data for you.<br><br>
-<b>Packages</b>: <a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>          
+<b>Packages</b>
+<hr>
+<a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>
+<br><br>       
  </td>
 </tr>
 <tr>
