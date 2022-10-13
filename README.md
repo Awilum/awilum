@@ -25,11 +25,6 @@ I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning a
 
 <br>
 
-## PROGRAMMING LANGUAGES, MARKUP AND PREPROCESSORS
-Basic, Object Pascal, Delphi, C/C++, PHP, JavaScript, TypeScript, Dart, Python, HTML, CSS, LESS, SASS, XML, YAML, NEON, MARKDOWN
-
-<br>
-
 ## OPEN SOURCE
 
 I also actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **415+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
