@@ -92,6 +92,12 @@ I also actively participate in developing, supporting and testing open source pr
 Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.
  </td>
 </tr>
+<tr>
+ <td width=200><a href="https://github.com/Awilum/wp-html-minifier">WordPress HTML Minifier</a></td>
+ <td>
+Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
+ </td>
+</tr>
 </table>
 
 <br>
