@@ -97,7 +97,17 @@ Plugin for WordPress adds API Explorer link for pages, posts, tags, categories a
  <td>
 Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
  </td>
+<tr>
+ <td width=200><a href="https://github.com/craft-plugins">Craft Plugins</a></td>
+ <td>
+<b>Plugins</b>
+<hr>
+<a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br>
+<a href="https://github.com/craft-plugins/nice">Nice</a> - A nice plugin with nice functions for nice data representation :).<br>
+ </td>
 </tr>
+</tr>
+
 </table>
 
 <br>
