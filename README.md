@@ -33,12 +33,17 @@ I actively participate in developing, supporting and testing open source project
 
 <h3><a href="https://github.com/flextype">Flextype</a></h3>
 Modern Open Source Flat Files Content Management System.<br><br>
+<p>
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype/flextype?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype/flextype?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype/flextype?branch=1.x"></a><br>
-
+</p>
 <hr>
 
-<b><a href="https://github.com/flextype-plugins">Flextype Plugins</a></b><br><br>
-Plugins for [@flextype](https://github.com/flextype) created by [@Awilum](https://github.com/awilum) <br><br>
+<h3><a href="https://github.com/flextype-plugins">Flextype Plugins</a></h3>
+<p>
+Plugins for <a href="https://github.com/flextype">@flextype</a> created by <a href="https://github.com/awilum">@Awilum</a>
+</p>
+
+<h2></h2><br>
 
 <a href="https://github.com/flextype-plugins/site">Site</a><br>
 Display entries content on the website frontend.<br><br>
