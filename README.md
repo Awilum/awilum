@@ -40,14 +40,14 @@ I also actively participate in developing, supporting and testing open source pr
  Modern Open Source Flat Files Content Management System.<br><br>
 <b>Plugins</b>
 <hr>
-<a href="https://github.com/flextype-plugins/site">Site</a> - Display entries content on the website frontend.<br>
-<a href="https://github.com/flextype-plugins/twig">Twig</a> - Present Twig template engine for Flextype.<br>
-<a href="https://github.com/flextype-plugins/sitemap">Sitemap</a> - Provide automatically generated XML sitemap for Flextype. <br>
+<a href="https://github.com/flextype-plugins/site">Site</a> - Display entries content on the website frontend.<br><br>
+<a href="https://github.com/flextype-plugins/twig">Twig</a> - Present Twig template engine for Flextype.<br><br>
+<a href="https://github.com/flextype-plugins/sitemap">Sitemap</a> - Provide automatically generated XML sitemap for Flextype. <br><br>
 <a href="https://github.com/flextype-plugins/feed">Feed</a> - Supports Atom 1.0, RSS and JSON feed types and allows you to generate feeds for entries.<br>
 <br>
 <b>Starter Kits</b>
 <hr>
-<a href="https://github.com/flextype-starter-kits/clean">Clean</a> - Minimalist Starter Kit for a blog or personal site. <br>
+<a href="https://github.com/flextype-starter-kits/clean">Clean</a> - Minimalist Starter Kit for a blog or personal site.<br><br>
 <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> - Minimalist Starter Kit for a documentation site.
 <br><br> 
  </td>
