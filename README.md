@@ -78,7 +78,10 @@ Starter Kits for <a href="https://github.com/flextype">@flextype</a> created by 
 <hr>
 
 <a href="https://github.com/flextype-starter-kits/clean">Clean</a><br>
-Minimalist Starter Kit for a blog or personal site.<br><br>
+Minimalist Starter Kit for a blog or personal site.
+
+<hr>
+
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-starter-kits/clean?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-starter-kits/clean?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-starter-kits/clean?branch=1.x"></a>
 
 <hr>
@@ -89,11 +92,17 @@ Minimalist Starter Kit for a documentation site.<br><br>
 
 <hr>
 
-<b><a href="https://github.com/glowyphp">Glowy PHP</a></b><br><br>
- Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
- <b>Packages</b>
+<h3><a href="https://github.com/glowyphp">Glowy PHP</a><h3>
+<p>Set of decoupled and reusable PHP building blocks for kickass Web Applications.</p>
+
 <hr>
-<a href="https://github.com/glowyphp/arrays">Arrays</a> - Arrays Package provide a fluent, object-oriented interface for working with arrays, allowing you to chain multiple arrays operations together using a more readable syntax compared to traditional PHP arrays functions.<br><br>
+
+<a href="https://github.com/glowyphp/arrays">Arrays</a><br>
+Arrays Package provide a fluent, object-oriented interface for working with arrays, allowing you to chain multiple arrays operations together using a more readable syntax compared to traditional PHP arrays functions.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/arrays"><img src="https://poser.pugx.org/glowy/arrays/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/arrays?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/arrays?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/arrays?branch=4.x"></a>
+
+<hr>
+
 <a href="https://github.com/glowyphp/benchmark">Benchmark</a> - Benchmark Package provide basic functionality for benchmarking.<br><br>
 <a href="https://github.com/glowyphp/strings">Strings</a> - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br><br>
 <a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br><br>
