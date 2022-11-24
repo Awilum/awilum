@@ -106,7 +106,7 @@ Benchmark Package provide basic functionality for benchmarking.<br><br>
 
 <hr>
 
-<a href="https://github.com/glowyphp/strings">Strings</a><hr>
+<a href="https://github.com/glowyphp/strings">Strings</a><br>
 Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br><br>
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/strings"><img src="https://poser.pugx.org/glowy/strings/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/strings?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/strings?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/strings?branch=5.x"></a>
 
