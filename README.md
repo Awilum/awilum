@@ -35,7 +35,7 @@ I also actively participate in developing, supporting and testing open source pr
 </tr>
 <tr>
  <td>
- <a href="https://github.com/flextype">Flextype</a><br><br>
+ <b><a href="https://github.com/flextype">Flextype</a></b><br><br>
  Modern Open Source Flat Files Content Management System.<br><br>
 <b>Plugins</b>
 <hr>
@@ -53,7 +53,7 @@ I also actively participate in developing, supporting and testing open source pr
 </tr>
 <tr>
  <td>
- <a href="https://github.com/glowyphp">Glowy PHP</a><br><br>
+ <b><a href="https://github.com/glowyphp">Glowy PHP</a></b><br><br>
  Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
  <b>Packages</b>
 <hr>
@@ -72,14 +72,14 @@ I also actively participate in developing, supporting and testing open source pr
  
 <tr>
  <td>
- <a href="https://github.com/thermage">Thermage</a><br><br>
+ <b><a href="https://github.com/thermage">Thermage</a></b><br><br>
  Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
  </td>
 </tr>
  
 <tr>
  <td>
- <a href="https://github.com/faker-javascript">The New Faker for JavaScript</a><br>
+ <b><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></b><br><br>
  A set of decoupled and reusable packages that generates fake data for you.<br><br>
 <b>Packages</b>
 <hr>
