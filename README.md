@@ -78,10 +78,7 @@ Starter Kits for <a href="https://github.com/flextype">@flextype</a> created by 
 <hr>
 
 <a href="https://github.com/flextype-starter-kits/clean">Clean</a><br>
-Minimalist Starter Kit for a blog or personal site.
-
-<hr>
-
+Minimalist Starter Kit for a blog or personal site.<br><br>
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-starter-kits/clean?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-starter-kits/clean?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-starter-kits/clean?branch=1.x"></a>
 
 <hr>
@@ -92,7 +89,7 @@ Minimalist Starter Kit for a documentation site.<br><br>
 
 <hr>
 
-<h3><a href="https://github.com/glowyphp">Glowy PHP</a><h3>
+<h3><a href="https://github.com/glowyphp">Glowy PHP</a></h3>
 <p>Set of decoupled and reusable PHP building blocks for kickass Web Applications.</p>
 
 <hr>
@@ -103,8 +100,19 @@ Arrays Package provide a fluent, object-oriented interface for working with arra
 
 <hr>
 
-<a href="https://github.com/glowyphp/benchmark">Benchmark</a> - Benchmark Package provide basic functionality for benchmarking.<br><br>
-<a href="https://github.com/glowyphp/strings">Strings</a> - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br><br>
+<a href="https://github.com/glowyphp/benchmark">Benchmark</a><br>
+Benchmark Package provide basic functionality for benchmarking.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/benchmark"><img src="https://poser.pugx.org/glowy/benchmark/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/benchmark?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/benchmark?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/benchmark?branch=1.x"></a>
+
+<hr>
+
+<a href="https://github.com/glowyphp/strings">Strings</a><hr>
+Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/strings"><img src="https://poser.pugx.org/glowy/strings/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/strings?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/strings?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/strings?branch=5.x"></a>
+
+<hr>
+
+
 <a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br><br>
 <a href="https://github.com/glowyphp/filesystem">Filesystem</a> - Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br><br>
 <a href="https://github.com/glowyphp/macroable">Macroable</a> - Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br><br>
