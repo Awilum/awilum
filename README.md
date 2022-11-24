@@ -85,7 +85,7 @@ Minimalist Starter Kit for a blog or personal site.<br>
 
 <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a><br>
 Minimalist Starter Kit for a documentation site.<br>
-
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-starter-kits/simpledoc?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-starter-kits/simpledoc?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-starter-kits/simpledoc?branch=1.x"></a>
 
 <hr>
 
