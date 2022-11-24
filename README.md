@@ -157,12 +157,16 @@ Fluent and incredibly powerful object-oriented interface for customizing CLI out
 
 <hr>
  
-<b><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></b><br><br>
- A set of decoupled and reusable packages that generates fake data for you.<br><br>
-<b>Packages</b>
-<hr>
+<h3><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></h3>
+A set of decoupled and reusable packages that generates fake data for you.<br><br>
+<p>
+<a href="https://github.com/faker-javascript/faker/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/faker.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/faker"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/faker"> <a href="https://github.com/faker-javascript/faker/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/faker/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/faker"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
+</p>
+
+<b>Packages:</b>
 <a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>
-<br><br>       
+
+<hr>
 
 <a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a>
 Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.<br><br>
