@@ -58,14 +58,14 @@ I also actively participate in developing, supporting and testing open source pr
  Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
  <b>Packages</b>
 <hr>
-<a href="https://github.com/glowyphp/arrays">Arrays</a> - Arrays Package provide a fluent, object-oriented interface for working with arrays, allowing you to chain multiple arrays operations together using a more readable syntax compared to traditional PHP arrays functions.<br>
-<a href="https://github.com/glowyphp/benchmark">Benchmark</a> - Benchmark Package provide basic functionality for benchmarking.<br>
-<a href="https://github.com/glowyphp/strings">Strings</a> - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br>
-<a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br>
-<a href="https://github.com/glowyphp/filesystem">Filesystem</a> - Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br>
-<a href="https://github.com/glowyphp/macroable">Macroable</a> - Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br>
-<a href="https://github.com/glowyphp/view">View</a> - View Package provides basic methods for creating extendable PHP Views.<br>
-<a href="https://github.com/glowyphp/registry">Registry</a> - Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br>
+<a href="https://github.com/glowyphp/arrays">Arrays</a> - Arrays Package provide a fluent, object-oriented interface for working with arrays, allowing you to chain multiple arrays operations together using a more readable syntax compared to traditional PHP arrays functions.<br><br>
+<a href="https://github.com/glowyphp/benchmark">Benchmark</a> - Benchmark Package provide basic functionality for benchmarking.<br><br>
+<a href="https://github.com/glowyphp/strings">Strings</a> - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.<br><br>
+<a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br><br>
+<a href="https://github.com/glowyphp/filesystem">Filesystem</a> - Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br><br>
+<a href="https://github.com/glowyphp/macroable">Macroable</a> - Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br><br>
+<a href="https://github.com/glowyphp/view">View</a> - View Package provides basic methods for creating extendable PHP Views.<br><br>
+<a href="https://github.com/glowyphp/registry">Registry</a> - Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br><br>
 <a href="https://github.com/glowyphp/csrf">Csrf</a> - Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
 <br><br> 
  </td>
@@ -100,7 +100,7 @@ Plugin for WordPress allows to improve your website overall performance by minif
 <tr>
  <td width=200><a href="https://github.com/craft-plugins">Craft Plugins</a></td>
  <td>
-<a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br>
+<a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br><br>
 <a href="https://github.com/craft-plugins/nice">Nice</a> - A nice plugin with nice functions for nice data representation :).<br>
  </td>
 </tr>
