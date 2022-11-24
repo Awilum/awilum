@@ -27,33 +27,48 @@ I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning a
 
 ## OPEN SOURCE
 
-I also actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **415+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
+I actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **415+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
 
-<table>
-<tr>
- <td>Projects</td>
-</tr>
-<tr>
- <td>
- <b><a href="https://github.com/flextype">Flextype</a></b><br><br>
- Modern Open Source Flat Files Content Management System.<br><br>
-<b>Plugins</b>
 <hr>
-<a href="https://github.com/flextype-plugins/site">Site</a> - Display entries content on the website frontend.<br><br>
-<a href="https://github.com/flextype-plugins/twig">Twig</a> - Present Twig template engine for Flextype.<br><br>
-<a href="https://github.com/flextype-plugins/sitemap">Sitemap</a> - Provide automatically generated XML sitemap for Flextype. <br><br>
+
+<h3><a href="https://github.com/flextype">Flextype</a></h3>
+Modern Open Source Flat Files Content Management System.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype/flextype?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype/flextype?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype/flextype?branch=1.x"></a><br>
+
+<hr>
+
+<b><a href="https://github.com/flextype-plugins">Flextype Plugins</a></b><br><br>
+Plugins for [@flextype](https://github.com/flextype) created by [@Awilum](https://github.com/awilum) <br><br>
+
+<a href="https://github.com/flextype-plugins/site">Site</a><br>
+Display entries content on the website frontend.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-plugins/site?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-plugins/site?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-plugins/site?branch=2.x"></a><br>
+
+<hr>
+
+<a href="https://github.com/flextype-plugins/twig">Twig</a><br>
+Present Twig template engine for Flextype.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-plugins/twig?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-plugins/twig?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-plugins/twig?branch=3.x"></a><br>
+
+<hr>
+
+<a href="https://github.com/flextype-plugins/sitemap">Sitemap</a><br>
+Provide automatically generated XML sitemap for Flextype.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-plugins/sitemap?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-plugins/sitemap?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-plugins/sitemap?branch=3.x"></a><br>
+
+<hr>
+
 <a href="https://github.com/flextype-plugins/feed">Feed</a> - Supports Atom 1.0, RSS and JSON feed types and allows you to generate feeds for entries.<br>
-<br>
+
+<hr>
+
 <b>Starter Kits</b>
 <hr>
 <a href="https://github.com/flextype-starter-kits/clean">Clean</a> - Minimalist Starter Kit for a blog or personal site.<br><br>
 <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a> - Minimalist Starter Kit for a documentation site.
 <br><br> 
- </td>
-</tr>
-<tr>
- <td>
- <b><a href="https://github.com/glowyphp">Glowy PHP</a></b><br><br>
+
+<b><a href="https://github.com/glowyphp">Glowy PHP</a></b><br><br>
  Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
  <b>Packages</b>
 <hr>
@@ -67,45 +82,25 @@ I also actively participate in developing, supporting and testing open source pr
 <a href="https://github.com/glowyphp/registry">Registry</a> - Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br><br>
 <a href="https://github.com/glowyphp/csrf">Csrf</a> - Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
 <br><br> 
- </td>
-</tr>
  
-<tr>
- <td>
- <b><a href="https://github.com/thermage">Thermage</a></b><br><br>
- Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
- </td>
-</tr>
+<b><a href="https://github.com/thermage">Thermage</a></b><br><br>
+Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
  
-<tr>
- <td>
- <b><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></b><br><br>
+<b><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></b><br><br>
  A set of decoupled and reusable packages that generates fake data for you.<br><br>
 <b>Packages</b>
 <hr>
 <a href="https://github.com/faker-javascript/boolean">Boolean</a>, <a href="https://github.com/faker-javascript/integer">Integer</a>, <a href="https://github.com/faker-javascript/float">Float</a>, <a href="https://github.com/faker-javascript/letter">Letter</a>, <a href="https://github.com/faker-javascript/integer">String</a>, <a href="https://github.com/faker-javascript/integer">Word</a>, <a href="https://github.com/faker-javascript/sentece">Sentence</a>, <a href="https://github.com/faker-javascript/paragraph">Paragraph</a>, <a href="https://github.com/faker-javascript/age">Age</a>, <a href="https://github.com/faker-javascript/gender">Gender</a>, <a href="https://github.com/faker-javascript/profession">Profession</a>, <a href="https://github.com/faker-javascript/firstname">Firstname</a>, <a href="https://github.com/faker-javascript/lastname">Lastname</a>, <a href="https://github.com/faker-javascript/superhero">Superhero</a>, <a href="https://github.com/faker-javascript/ip">IP</a>, <a href="https://github.com/faker-javascript/domain">Domain</a>, <a href="https://github.com/faker-javascript/tld">Tld</a>, <a href="https://github.com/faker-javascript/email">Email</a>, <a href="https://github.com/faker-javascript/url">Url</a>, <a href="https://github.com/faker-javascript/browser">Browser</a>, <a href="https://github.com/faker-javascript/animal">Animal</a>, <a href="https://github.com/faker-javascript/blood">Blood</a>
 <br><br>       
- </td>
-</tr>
- 
-<tr>
- <td>
+
 <a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a>
 Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.<br><br>
 <a href="https://github.com/Awilum/wp-html-minifier">WordPress HTML Minifier</a>
 Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
- </td>
-<tr>
- 
-<tr>
- <td>
+
 <a href="https://github.com/craft-plugins">Craft Plugins</a><br>
 <a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br><br>
 <a href="https://github.com/craft-plugins/nice">Nice</a> - A nice plugin with nice functions for nice data representation :).<br>
- </td>
-</tr>
-
-</table>
 
 <br>
 
