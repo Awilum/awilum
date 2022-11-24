@@ -138,14 +138,14 @@ View Package provides basic methods for creating extendable PHP Views.<br><br>
 
 <a href="https://github.com/glowyphp/registry">Registry</a><br>
 Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br><br>
-<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/thermage/thermage"><img src="https://poser.pugx.org/glowyphp/registry/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/registry?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/registry?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/registry?branch=5.x"></a>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/registry"><img src="https://poser.pugx.org/glowyphp/registry/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/registry?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/registry?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/registry?branch=5.x"></a>
 
 <hr>
 
 <a href="https://github.com/glowyphp/csrf">Csrf</a><br> 
 Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
 <br><br> 
-<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/thermage/thermage"><img src="https://poser.pugx.org/glowyphp/csrf/downloads" alt="Total downloads"></a> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/csrf?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/csrf?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/csrf?branch=3.x"></a>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/csrf?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/csrf?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/csrf?branch=3.x"></a>
 
 <hr>
  
