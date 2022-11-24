@@ -112,14 +112,42 @@ Strings Package provide a fluent, object-oriented interface for working with mul
 
 <hr>
 
+<a href="https://github.com/glowyphp/session">Session</a><br>
+Session Package provide a fluent, object-oriented interface for working with Session.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/session"><img src="https://poser.pugx.org/glowy/session/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/session?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/session?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/session?branch=4.x"></a>
 
-<a href="https://github.com/glowyphp/session">Session</a> - Session Package provide a fluent, object-oriented interface for working with Session.<br><br>
-<a href="https://github.com/glowyphp/filesystem">Filesystem</a> - Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br><br>
-<a href="https://github.com/glowyphp/macroable">Macroable</a> - Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br><br>
-<a href="https://github.com/glowyphp/view">View</a> - View Package provides basic methods for creating extendable PHP Views.<br><br>
-<a href="https://github.com/glowyphp/registry">Registry</a> - Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br><br>
-<a href="https://github.com/glowyphp/csrf">Csrf</a> - Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
+<hr>
+
+<a href="https://github.com/glowyphp/filesystem">Filesystem</a><br>
+Filesystem Package provide a fluent, object-oriented interface for working with filesystem.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/filesystem"><img src="https://poser.pugx.org/glowy/filesystem/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/filesystem?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/filesystem?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/filesystem?branch=4.x"></a>
+
+<hr>
+
+<a href="https://github.com/glowyphp/macroable">Macroable</a><br>
+Macroable Package is a trait that, gives you the ability in effect to add new methods to a class at runtime.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/macroable"><img src="https://poser.pugx.org/glowy/macroable/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/macroable?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/macroable?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/macroable?branch=4.x"></a>
+
+<hr>
+
+<a href="https://github.com/glowyphp/view">View</a><br>
+View Package provides basic methods for creating extendable PHP Views.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/view"><img src="https://poser.pugx.org/glowy/view/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/view?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/view?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/view?branch=2.x"></a>
+
+<hr>
+
+<a href="https://github.com/glowyphp/registry">Registry</a><br>
+Registry Package provides a fluent, object-oriented interface for storing data globally in a well managed fashion, helping to prevent global meltdown.<br><br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/registry"><img src="https://poser.pugx.org/glowy/registry/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/registry?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/registry?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/registry?branch=5.x"></a>
+
+<hr>
+
+<a href="https://github.com/glowyphp/csrf">Csrf</a><br> 
+Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
 <br><br> 
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/csrf?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/csrf?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/csrf?branch=3.x"></a>
+
+<hr>
  
 <b><a href="https://github.com/thermage">Thermage</a></b><br><br>
 Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
