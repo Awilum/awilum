@@ -145,7 +145,7 @@ Registry Package provides a fluent, object-oriented interface for storing data g
 <a href="https://github.com/glowyphp/csrf">Csrf</a><br> 
 Csrf Package provides Cross Site Request Forgery protection by comparing provided token with session token to ensure request validity.
 <br><br> 
-<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/csrf?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/csrf?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/csrf?branch=3.x"></a>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <a href="https://packagist.org/packages/glowy/csrf"><img src="https://poser.pugx.org/glowy/csrf/downloads" alt="Total downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glowyphp/csrf?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/glowyphp/csrf?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/glowyphp/csrf?branch=3.x"></a>
 
 <hr>
  
