@@ -31,12 +31,11 @@ I also actively participate in developing, supporting and testing open source pr
 
 <table>
 <tr>
- <td>Project</td>
- <td>Description</td>
+ <td>Projects</td>
 </tr>
 <tr>
- <td width=200><a href="https://github.com/flextype">Flextype</a></td>
  <td>
+ <a href="https://github.com/flextype">Flextype</a><br><br>
  Modern Open Source Flat Files Content Management System.<br><br>
 <b>Plugins</b>
 <hr>
@@ -53,8 +52,8 @@ I also actively participate in developing, supporting and testing open source pr
  </td>
 </tr>
 <tr>
- <td width=200><a href="https://github.com/glowyphp">Glowy PHP</a></td>
  <td>
+ <a href="https://github.com/glowyphp">Glowy PHP</a><br><br>
  Set of decoupled and reusable PHP building blocks for kickass Web Applications.<br><br>
  <b>Packages</b>
 <hr>
@@ -70,15 +69,17 @@ I also actively participate in developing, supporting and testing open source pr
 <br><br> 
  </td>
 </tr>
+ 
 <tr>
- <td width=200><a href="https://github.com/thermage">Thermage</a></td>
  <td>
+ <a href="https://github.com/thermage">Thermage</a><br><br>
  Fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
  </td>
 </tr>
+ 
 <tr>
- <td width=200><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></td>
  <td>
+ <a href="https://github.com/faker-javascript">The New Faker for JavaScript</a><br>
  A set of decoupled and reusable packages that generates fake data for you.<br><br>
 <b>Packages</b>
 <hr>
@@ -86,24 +87,22 @@ I also actively participate in developing, supporting and testing open source pr
 <br><br>       
  </td>
 </tr>
+ 
 <tr>
- <td width=200><a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a></td>
  <td>
-Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.
- </td>
-</tr>
-<tr>
- <td width=200><a href="https://github.com/Awilum/wp-html-minifier">WordPress HTML Minifier</a></td>
- <td>
+<a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a>
+Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.<br><br>
+<a href="https://github.com/Awilum/wp-html-minifier">WordPress HTML Minifier</a>
 Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
  </td>
 <tr>
- <td width=200><a href="https://github.com/craft-plugins">Craft Plugins</a></td>
+ 
+<tr>
  <td>
+<a href="https://github.com/craft-plugins">Craft Plugins</a><br>
 <a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br><br>
 <a href="https://github.com/craft-plugins/nice">Nice</a> - A nice plugin with nice functions for nice data representation :).<br>
  </td>
-</tr>
 </tr>
 
 </table>
