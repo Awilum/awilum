@@ -160,7 +160,7 @@ Fluent and incredibly powerful object-oriented interface for customizing CLI out
 <h3><a href="https://github.com/faker-javascript">The New Faker for JavaScript</a></h3>
 A set of decoupled and reusable packages that generates fake data for you.<br><br>
 <p>
-<a href="https://github.com/faker-javascript/faker/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/faker.svg?label=version"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/faker"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/faker"> <a href="https://github.com/faker-javascript/faker/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/faker/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/faker"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+<a href="https://github.com/faker-javascript/faker"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/faker"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/faker"> <a href="https://github.com/faker-javascript/faker/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/faker/actions/workflows/ci.yml/badge.svg"></a>
 </p>
 
 <b>Packages:</b>
