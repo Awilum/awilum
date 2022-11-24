@@ -27,7 +27,7 @@ I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning a
 
 ## OPEN SOURCE
 
-I actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **415+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
+I actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **426+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
 
 <hr>
 
