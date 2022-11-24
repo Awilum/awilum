@@ -60,14 +60,12 @@ Present Twig template engine for Flextype.<br><br>
 
 <a href="https://github.com/flextype-plugins/sitemap">Sitemap</a><br>
 Provide automatically generated XML sitemap for Flextype.<br><br>
-
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-plugins/sitemap?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-plugins/sitemap?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-plugins/sitemap?branch=3.x"></a><br>
 
 <hr>
 
 <a href="https://github.com/flextype-plugins/feed">Feed</a><br>
 Supports Atom 1.0, RSS and JSON feed types and allows you to generate feeds for entries.<br>
-
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-plugins/feed?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-plugins/feed?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-plugins/feed?branch=2.x"></a>
 
 <hr>
@@ -80,10 +78,14 @@ Starter Kits for <a href="https://github.com/flextype">@flextype</a> created by 
 <hr>
 
 <a href="https://github.com/flextype-starter-kits/clean">Clean</a><br>
-Minimalist Starter Kit for a blog or personal site.
+Minimalist Starter Kit for a blog or personal site.<br>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flextype-starter-kits/clean?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/flextype-starter-kits/clean?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/flextype-starter-kits/clean?branch=1.x"></a>
+
+<hr>
 
 <a href="https://github.com/flextype-starter-kits/simpledoc">Simpledoc</a><br>
-Minimalist Starter Kit for a documentation site.
+Minimalist Starter Kit for a documentation site.<br>
+
 
 <hr>
 
