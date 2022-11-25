@@ -1,10 +1,6 @@
-<h2>
-HI THERE 👋
-</h2>
-
-<!--<img width="400" align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Awilum">-->
-
-I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams. <br><br>
+<h1>
+Sergey Romanenko
+</h1>
 <a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a>
 <a href="http://instagram.com/sergey.romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" height="24"></a>
 <a href="https://www.linkedin.com/in/sergey-romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" height="24"></a>
@@ -12,6 +8,11 @@ I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning a
 <a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>
 <a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>
 <a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
+<br><br>
+<p>
+I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
+</p>
+
 <hr>
 
 <br>
