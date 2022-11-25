@@ -194,12 +194,17 @@ Plugins for <a href="https://github.com/craftcms/cms">@CraftCMS</a> created by <
 
 <a href="https://github.com/craft-plugins/reading-time">Reading Time</a><br>
 Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br><br>
+<p>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/craft-plugins/reading-time?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/craft-plugins/reading-time?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/craft-plugins/reading-time?branch=1.x"></a>
+</p>
 
 <hr>
 
 <a href="https://github.com/craft-plugins/nice">Nice</a><br>
 A nice plugin with nice functions for nice data representation :).<br>
-
+<p>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/craft-plugins/nice?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/craft-plugins/nice?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/craft-plugins/nice?branch=1.x"></a>
+</p>
 <br>
 
 ## SUPPORT ME
