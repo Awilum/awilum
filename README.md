@@ -168,10 +168,16 @@ A set of decoupled and reusable packages that generates fake data for you.<br><b
 
 <hr>
 
+<h3><a href="https://github.com/wp-extends">Wordpress Plugins</a></h3>
 <a href="https://github.com/Awilum/wp-api-explorer">WordPress Api Explorer</a>
-Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.<br><br>
+Plugin for WordPress adds API Explorer link for pages, posts, tags, categories and comments.
+
+<hr>
+
 <a href="https://github.com/Awilum/wp-html-minifier">WordPress HTML Minifier</a>
 Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
+
+<hr>
 
 <a href="https://github.com/craft-plugins">Craft Plugins</a><br>
 <a href="https://github.com/craft-plugins/reading-time">Reading Time</a> - Reading Time plugin shows the estimated reading time of the content, in seconds or minutes.<br><br>
