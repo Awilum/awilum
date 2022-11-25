@@ -5,7 +5,12 @@ HI THERE 👋
 <!--<img width="400" align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Awilum">-->
 
 I'm Sergey Romanenko a Developer and QA Engineer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams. <br><br>
-<a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a> / <a href="https://twitter.com/_awilum">TWITTER</a> / <a href="https://www.linkedin.com/in/sergey-romanenko/">LINKEDIN</a> / <a href="awilum.t.me">TELEGRAM</a> / <a href="awilum@msn.com">EMAIL</a> / <a href="https://awilum.github.io/sergey-romanenko-cv.pdf">DOWNLOAD CV</a>
+<a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a>
+<a href="https://www.linkedin.com/in/sergey-romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" height="24"></a>
+<a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>
+<a href="awilum.t.me">TELEGRAM</a>
+<a href="awilum@msn.com">EMAIL</a>
+<a href="https://awilum.github.io/sergey-romanenko-cv.pdf">DOWNLOAD CV</a>
 <hr>
 
 <br>
