@@ -218,4 +218,3 @@ A nice plugin with nice functions for nice data representation :).<br>
 Developing open-source software is a passion of mine. It requires a significant amount of time to create new features, fix bugs, write documentation, helps the community, etc. If you benefit from any of my open-source work and would like to help contribute, [here are all the ways you can do it](https://awilum.github.io/donate/).  
 
 ![](https://hit.yhype.me/github/profile?user_id=477114)
-
