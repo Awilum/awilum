@@ -19,17 +19,17 @@ I'm Developer and QA Engineer with strong will for learning and researching new 
 <br>
 
 ## MY EXPERIENCE
-✓ Development and Support websites frontend (Bootstrap, Tailwind, Post CSS, Gulp).  
-✓ Development and Support websites backend (Symfony, Slim PHP, Doctrine, Glowy, etc..).  
-✓ Analysis and optimization of websites loading speed with the best performance practice.  
-✓ Development processes organization (GitHub, Jira, Slack, Discord, Telegram).  
-✓ Project management.  
-✓ Manual testing and creation of test documentation (test cases, checklists, bug reports).   
-✓ Manual and automation REST API testing (POSTMAN).  
-✓ PHP Unit testing (PHP Unit, Pest).  
-✓ JS Unit testing (AVA).  
-✓ Localization and testing localization projects (Crowdin).  
-✓ Development and support of open source projects.  
+▣ Development and Support websites frontend (Bootstrap, Tailwind, Post CSS, Gulp).  
+▣ Development and Support websites backend (Symfony, Slim PHP, Doctrine, Glowy, etc..).  
+▣ Analysis and optimization of websites loading speed with the best performance practice.  
+▣ Development processes organization (GitHub, Jira, Slack, Discord, Telegram).  
+▣ Project management.  
+▣ Manual testing and creation of test documentation (test cases, checklists, bug reports).   
+▣ Manual and automation REST API testing (POSTMAN).  
+▣ PHP Unit testing (PHP Unit, Pest).  
+▣ JS Unit testing (AVA).  
+▣ Localization and testing localization projects (Crowdin).  
+▣ Development and support of open source projects.  
 
 <br>
 
