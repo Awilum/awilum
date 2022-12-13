@@ -8,7 +8,8 @@ Sergey Romanenko
 <a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>&nbsp;&nbsp;
 <a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>&nbsp;&nbsp;
 <a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
+<a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" height="24"></a>
+<a href="https://phpc.social/@awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
 <br><br>
 <p>
 I'm Digital Nomad with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
@@ -220,6 +221,3 @@ A nice plugin with nice functions for nice data representation :).<br>
 Developing open-source software is a passion of mine. It requires a significant amount of time to create new features, fix bugs, write documentation, helps the community, etc. If you benefit from any of my open-source work and would like to help contribute, [here are all the ways you can do it](https://awilum.github.io/donate/).  
 
 ![](https://hit.yhype.me/github/profile?user_id=477114)
-
-
-<a rel="me" href="https://phpc.social/@awilum">Mastodon</a>
