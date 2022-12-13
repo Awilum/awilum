@@ -1,13 +1,13 @@
 <h1>
 Sergey Romanenko
 </h1>
-<a href="https://awilum.github.io/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe.svg" height="24"></a>
-<a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a>
-<a href="http://instagram.com/sergey.romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" height="24"></a>
-<a href="https://www.linkedin.com/in/sergey-romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" height="24"></a>
-<a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>
-<a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>
-<a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>
+<a href="https://awilum.github.io/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe.svg" height="24"></a>&nbsp;&nbsp;
+<a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a>&nbsp;&nbsp;
+<a href="http://instagram.com/sergey.romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" height="24"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sergey-romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" height="24"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>&nbsp;&nbsp;
+<a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>&nbsp;&nbsp;
+<a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>&nbsp;&nbsp;
 <a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
 <br><br>
 <p>
