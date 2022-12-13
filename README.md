@@ -11,7 +11,7 @@ Sergey Romanenko
 <a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
 <br><br>
 <p>
-I'm Developer and QA Engineer with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
+I'm Digital Nomad with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
 </p>
 
 <hr>
