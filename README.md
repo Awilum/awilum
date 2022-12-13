@@ -1,15 +1,62 @@
 <h1>
 Sergey Romanenko
 </h1>
-<a href="https://awilum.github.io/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://github.com/Awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" height="24"></a>&nbsp;&nbsp;
-<a href="http://instagram.com/sergey.romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sergey-romanenko/"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>&nbsp;&nbsp;
-<a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>&nbsp;&nbsp;
-<a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://phpc.social/@awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
+<a href="https://awilum.github.io/">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe.svg">
+<img height="24" alt="Website" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/globe.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Awilum">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg">
+<img height="24" alt="Github" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/github.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="http://instagram.com/sergey.romanenko/">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg">
+<img height="24" alt="Instagram" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sergey-romanenko/">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg">
+<img height="24" alt="Linkedin" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/_awilum">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg">
+<img height="24" alt="Twitter" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="awilum.t.me">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg">
+<img height="24" alt="Telegram" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="awilum@msn.com">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg">
+<img height="24" alt="Mail" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" width="100%">
+</picture>
+</a>&nbsp;&nbsp;
+<a href="https://phpc.social/@awilum">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg">
+<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
+</picture>
+</a>
 <br><br>
 <p>
 I'm Digital Nomad with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
