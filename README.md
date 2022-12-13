@@ -8,7 +8,7 @@ Sergey Romanenko
 <a href="https://twitter.com/_awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" height="24"></a>&nbsp;&nbsp;
 <a href="awilum.t.me"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram.svg" height="24"></a>&nbsp;&nbsp;
 <a href="awilum@msn.com"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" height="24"></a>&nbsp;&nbsp;
-<a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" height="24"></a>
+<a href="https://awilum.github.io/sergey-romanenko-cv.pdf"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" height="24"></a>&nbsp;&nbsp;
 <a href="https://phpc.social/@awilum"><img src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/cv.svg" height="24"></a>
 <br><br>
 <p>
