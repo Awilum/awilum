@@ -79,6 +79,28 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 ▣ Localization and testing localization projects (Crowdin).  
 ▣ Development and support of open source projects.  
 
+<hr>
+
+<br>
+
+## EDUCATION
+<b>Central Ukrainian National Technical University</b>  
+Computer Engineering  
+2006 - 2010
+
+<hr>
+
+<br>
+
+## LICENSES & CERTIFICATIONS
+▣ [HTML (Sololearn)](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png)
+▣ [PHP (Sololearn)](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png)
+▣ [PHP (Great Learning)](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg)
+▣ [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1866825)
+▣ [Тренажер по вёрстке, плагин Emmet](https://stepik.org/cert/1865662)
+
+<hr>
+
 <br>
 
 ## OPEN SOURCE
