@@ -98,8 +98,8 @@ Computer Engineering
 &#9673; [HTML (Sololearn)](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png)   
 &#9673; [PHP (Sololearn)](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png)  
 &#9673; [PHP (Great Learning)](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg)  
-&#9673; [Software Testing: Postman for API Testing](https://stepik.org/cert/1866825)  
-&#9673; [HTML Tranier with plugin Emmet](https://stepik.org/cert/1865662)  
+&#9673; [Software Testing: Postman for API Testing (Stepik)](https://stepik.org/cert/1866825)  
+&#9673; [HTML Tranier with plugin Emmet (Stepik)](https://stepik.org/cert/1865662)  
 
 <hr>
 
