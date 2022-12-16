@@ -93,9 +93,9 @@ Computer Engineering
 <br>
 
 ## LICENSES & CERTIFICATIONS
-&#9673; [Web Development Fundamentals (Sololearn)](https://www.sololearn.com/Certificate/CT-06RN5P56/png)
-&#9673; [CSS (Sololearn)](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) 
-&#9673; [HTML (Sololearn)](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png)  
+&#9673; [Web Development Fundamentals (Sololearn)](https://www.sololearn.com/Certificate/CT-06RN5P56/png)  
+&#9673; [CSS (Sololearn)](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png)  
+&#9673; [HTML (Sololearn)](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png)   
 &#9673; [PHP (Sololearn)](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png)  
 &#9673; [PHP (Great Learning)](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg)  
 &#9673; [Software Testing: Postman for API Testing](https://stepik.org/cert/1866825)  
