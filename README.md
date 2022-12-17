@@ -72,8 +72,8 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 ▣ Analysis and optimization of websites loading speed with the best performance practice.  
 ▣ Development processes organization (GitHub, Jira, Slack, Discord, Telegram).  
 ▣ Project management.  
-▣ Mentoring, Coaching. 
-▣ Manual testing and creation of test documentation (test cases, checklists, bug reports).   
+▣ Mentoring, Coaching.  
+▣ Manual testing and creation of test documentation (test cases, checklists, bug reports).     
 ▣ Manual and automation REST API testing (POSTMAN).  
 ▣ PHP Unit testing (PHP Unit, Pest).  
 ▣ JS Unit testing (AVA).  
