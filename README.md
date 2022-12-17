@@ -94,15 +94,19 @@ Computer Engineering
 <br>
 
 ## LICENSES & CERTIFICATIONS
-&#9673; [Introduction to SQL (Sololearn)](https://www.sololearn.com/Certificate/CC-7URXVEDM/png)   
-&#9673; [Introduction to JavaScript (Sololearn)](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png)   
-&#9673; [Web Development Fundamentals (Sololearn)](https://www.sololearn.com/Certificate/CT-06RN5P56/png)  
-&#9673; [CSS (Sololearn)](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png)  
-&#9673; [HTML (Sololearn)](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png)   
-&#9673; [PHP (Sololearn)](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png)  
-&#9673; [PHP (Great Learning)](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg)  
-&#9673; [Software Testing: Postman for API Testing (Stepik)](https://stepik.org/cert/1866825)  
-&#9673; [HTML Tranier with plugin Emmet (Stepik)](https://stepik.org/cert/1865662)  
+| Name | Issuing organization | Issue Date | Credential ID | Credential URL | 
+|---|---|---|---|---|
+| Introduction to SQL | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
+| Introduction to JavaScript | Sololearn | Dec 2022 | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
+| Web Development Fundamentals | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-06RN5P56/png) |
+| CSS | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
+| HTML | Sololearn | Dec 2022 | CT-UFBKSUGL | [view certificate](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png) |
+| PHP | Sololearn | Dec 2022 | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
+| PHP | Great Learning | Dec 2022 | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
+| Software Testing: Postman for API Testing | Stepik | Dec 2022 | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
+| HTML Tranier with plugin Emmet | Stepik | Dec 2022 | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
+
+
 
 <hr>
 
