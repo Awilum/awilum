@@ -93,6 +93,7 @@ Computer Engineering
 <br>
 
 ## LICENSES & CERTIFICATIONS
+&#9673; [Introduction to SQL (Sololearn)](https://www.sololearn.com/Certificate/CC-7URXVEDM/png)   
 &#9673; [Introduction to JavaScript (Sololearn)](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png)   
 &#9673; [Web Development Fundamentals (Sololearn)](https://www.sololearn.com/Certificate/CT-06RN5P56/png)  
 &#9673; [CSS (Sololearn)](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png)  
