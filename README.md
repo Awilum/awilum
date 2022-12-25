@@ -84,6 +84,34 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 
 <br>
 
+## EDUCATION
+<b>Central Ukrainian National Technical University</b>  
+Computer Engineering  
+2006 - 2010
+
+<hr>
+
+<br>
+
+## LICENSES & CERTIFICATIONS
+| Name | Issuing organization | Issue Date | Credential ID | Credential URL | 
+|---|---|---|---|---|
+| SQL | Sololearn | Dec 2022 | CT-IJGG7KV0 | [view certificate](https://www.sololearn.com/Certificate/CT-IJGG7KV0/png) |
+| Introduction to SQL | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
+| Introduction to JavaScript | Sololearn | Dec 2022 | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
+| Web Development Fundamentals | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-06RN5P56/png) |
+| CSS | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
+| HTML | Sololearn | Dec 2022 | CT-UFBKSUGL | [view certificate](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png) |
+| PHP | Sololearn | Dec 2022 | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
+| PHP | Great Learning | Dec 2022 | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
+| Software Testing: Postman for API Testing | Stepik | Dec 2022 | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
+| HTML Tranier with plugin Emmet | Stepik | Dec 2022 | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
+
+
+<hr>
+
+<br>
+
 ## OPEN SOURCE
 
 I actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **426+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
@@ -272,34 +300,6 @@ Simple benchmark plugin with basic functionality for benchmarking.<br>
 <p>
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License" alt="License MIT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/awilum/craft-benchmark?label=Stars"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/awilum/craft-benchmark?label=Forks"> <a href="https://hitsofcode.com"><img alt="Hits of Code" src="https://hitsofcode.com/github/awilum/craft-benchmark?branch=1.x"></a>
 </p>
-
-<hr>
-
-<br>
-
-## EDUCATION
-<b>Central Ukrainian National Technical University</b>  
-Computer Engineering  
-2006 - 2010
-
-<hr>
-
-<br>
-
-## LICENSES & CERTIFICATIONS
-| Name | Issuing organization | Issue Date | Credential ID | Credential URL | 
-|---|---|---|---|---|
-| Introduction to SQL | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
-| Introduction to JavaScript | Sololearn | Dec 2022 | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
-| Web Development Fundamentals | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-06RN5P56/png) |
-| CSS | Sololearn | Dec 2022 | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
-| HTML | Sololearn | Dec 2022 | CT-UFBKSUGL | [view certificate](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png) |
-| PHP | Sololearn | Dec 2022 | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
-| PHP | Great Learning | Dec 2022 | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
-| Software Testing: Postman for API Testing | Stepik | Dec 2022 | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
-| HTML Tranier with plugin Emmet | Stepik | Dec 2022 | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
-
-
 
 <hr>
 
