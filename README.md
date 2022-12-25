@@ -67,18 +67,58 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 <br>
 
 ## MY EXPERIENCE
-▣ Development and Support websites frontend (Bootstrap, Tailwind, Post CSS, Gulp).  
-▣ Development and Support websites backend (Symfony, Slim PHP, Doctrine, Glowy, etc..).  
-▣ Analysis and optimization of websites loading speed with the best performance practice.  
-▣ Development processes organization (GitHub, Jira, Slack, Discord, Telegram).  
-▣ Project management.  
-▣ Mentoring, Coaching.  
-▣ Manual testing and creation of test documentation (test cases, checklists, bug reports).     
-▣ Manual and automation REST API testing (POSTMAN).  
-▣ PHP Unit testing (PHP Unit, Pest).  
-▣ JS Unit testing (AVA).  
-▣ Localization and testing localization projects (Crowdin).  
-▣ Development and support of open source projects.  
+
+▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
+
+Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.  
+
+**Skills:** Mentoring · Teaching  
+
+▣ [**Mentor** · GetMentor.dev · Part-time · Oct 2022 - Present](https://getmentor.dev/mentor/-sergey-romanenko-1303)
+
+Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.  
+
+**Skills:** Mentoring · Teaching  
+
+▣ [**Consulting Information Technology Specialist** · Freelance · Self-employed · Contract · Jan 2015 - Present](https://awilum.github.io/)
+
+- Full Stack Web Development, Testing and IT Consulting.
+- Open-Source Development.
+- Mentoring, Coaching. 
+- Software Architect and Project Management.
+- Web interfaces standardisation.
+- Emails development.
+- Frontend and backend automation.
+- Frontend and backend architecture development.
+- Projects documentation development.
+- Projects localization with the help of Crowdin and Transifex.
+- Localization and Testing.
+- API Testing with Postman.
+- PHP and JS Unit Testing.
+- Manual Testing.
+- Testing documentation development.
+- Peromance Testing.
+- UI/UX Testing.
+
+**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+
+▣ [**Open Source Software Engineer** · GitHub · Sep 2010 - Present](https://github.com/Awilum)
+
+Im actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects.  
+
+**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+
+▣ [**Senior Front End Developer** · Onix-Systems · Sep 2010 - May 2014](https://onix-systems.com/)
+
+- Frontend Web Development.
+- Web interfaces standardisation.
+- Modular development.
+- Frontend automation.
+- Frontend architecture development.
+- Projects documentation development.
+- Frontend Web Development.
+
+**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
 
 <hr>
 
