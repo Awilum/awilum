@@ -74,17 +74,21 @@ Assisting young professionals in refining their programming abilities and achiev
 
 **Skills:** Mentoring · Teaching  
 
+<br>
+
 ▣ [**Mentor** · GetMentor.dev · Part-time · Oct 2022 - Present](https://getmentor.dev/mentor/-sergey-romanenko-1303)
 
 Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.  
 
 **Skills:** Mentoring · Teaching  
 
+<br>
+
 ▣ [**Consulting Information Technology Specialist** · Freelance · Self-employed · Contract · Jan 2015 - Present](https://awilum.github.io/)
 
 - Full Stack Web Development, Testing and IT Consulting.
 - Open-Source Development.
-- Mentoring, Coaching. 
+- Mentoring, Coaching, Teaching. 
 - Software Architect and Project Management.
 - Web interfaces standardisation.
 - Emails development.
@@ -102,11 +106,15 @@ Assisting young professionals in refining their programming abilities and achiev
 
 **Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
 
+<br>
+
 ▣ [**Open Source Software Engineer** · GitHub · Sep 2010 - Present](https://github.com/Awilum)
 
 Im actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects.  
 
 **Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+
+<br>
 
 ▣ [**Senior Front End Developer** · Onix-Systems · Sep 2010 - May 2014](https://onix-systems.com/)
 
