@@ -110,7 +110,7 @@ Assisting young professionals in refining their programming abilities and achiev
 
 ▣ [**Open Source Software Engineer** · GitHub · Sep 2010 - Present](https://github.com/Awilum)
 
-Im actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects.  
+I actively participate in developing, supporting and testing open-source projects. I am an active user of GitHub; I write code and find and report defects.
 
 **Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
 
