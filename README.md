@@ -70,7 +70,7 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 
 ▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
 
-Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.  
+Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
 
 **Skills:** Mentoring · Teaching  
 
@@ -78,7 +78,7 @@ Assisting young professionals in refining their programming abilities and achiev
 
 ▣ [**Mentor** · GetMentor.dev · Part-time · Oct 2022 - Present](https://getmentor.dev/mentor/-sergey-romanenko-1303)
 
-Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.  
+Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
 
 **Skills:** Mentoring · Teaching  
 
