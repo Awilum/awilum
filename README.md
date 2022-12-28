@@ -153,6 +153,7 @@ Computer Engineering
 | PHP | Sololearn | Dec 2022 | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
 | PHP | Great Learning | Dec 2022 | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
 | Joins in SQL | Great Learning | Dec 2022 | 64937 | [view certificate](https://media.licdn.com/dms/image/C5622AQHKbxsfJkG4qw/feedshare-shrink_800/0/1672126317414?e=1675296000&v=beta&t=rqglFkPaMw-BO4sYZghALckWtM0JkvKnnzd1ar2bAwk) |
+| Operators in MySQL | Great Learning | Dec 2022 | 65087 | [view certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/1998518/original/Sergey_Romanenko20221227-64-1ty4eah.jpg) |
 | Software Testing: Postman for API Testing | Stepik | Dec 2022 | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
 | HTML Tranier with plugin Emmet | Stepik | Dec 2022 | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
 
