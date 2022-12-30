@@ -164,8 +164,7 @@ Computer Engineering
 
 ## OPEN SOURCE
 
-As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects.  
-My contribution to **426+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
+As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects. My contribution to **429+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
 
 <hr>
 
