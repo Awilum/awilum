@@ -66,7 +66,7 @@ I'm Digital Nomad with strong will for learning and researching new technologies
 
 <br>
 
-## MY EXPERIENCE
+## EXPERIENCE
 
 ▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
 
@@ -164,7 +164,8 @@ Computer Engineering
 
 ## OPEN SOURCE
 
-I actively participate in developing, supporting and testing open source projects. I am an active user of GitHub; I write code, find and report defects. My contribution to **426+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
+As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects.  
+My contribution to **426+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
 
 <hr>
 
