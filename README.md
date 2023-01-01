@@ -353,7 +353,7 @@ Simple benchmark plugin with basic functionality for benchmarking.<br>
 
 <hr>
 
-<h3><a href="https://github.com/craft-plugins">Assembler CSS Mixins</a></h3>
+<h3><a href="https://github.com/Awilum#assembler-css-mixins">Assembler CSS Mixins</a></h3>
 <p>
 Mixins for <a href="https://github.com/asmcss/assembler">Assembler CSS</a> created by <a href="https://github.com/awilum">@Awilum</a>
 </p>
