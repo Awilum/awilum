@@ -353,6 +353,23 @@ Simple benchmark plugin with basic functionality for benchmarking.<br>
 
 <hr>
 
+<h3><a href="https://github.com/craft-plugins">Assembler CSS Mixins</a></h3>
+<p>
+Mixins for <a href="https://github.com/asmcss/assembler">Assembler CSS</a> created by <a href="https://github.com/awilum">@Awilum</a>
+</p>
+
+<hr>
+
+<a href="https://github.com/awilum/asmcss-mixin-w">asmcss-mixin-w</a><br>
+A mixin for Assembler CSS that provides extended functionality to set the width of an element.<br>
+
+<hr>
+
+<a href="https://github.com/awilum/asmcss-mixin-lang">asmcss-mixin-lang</a><br>
+A mixin for Assembler CSS that provides extended functionality to set the width of an element.<br>
+
+<hr>
+
 <br>
 
 ## SUPPORT ME
