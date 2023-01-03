@@ -59,7 +59,7 @@ Sergey Romanenko
 </a>
 <br><br>
 <p>
-I'm Digital Nomad with strong will for learning and researching new technologies and architectural solutions. I like creating and using specialised tools for making development processes as efficient as possible. I have experience with big projects and big development teams.
+I'm Digital Nomad with a strong will to learn and research new technologies and architectural solutions. I like creating and using specialised tools to make development processes as efficient as possible. I have experience with big projects and big development teams.
 </p>
 
 <hr>
