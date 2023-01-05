@@ -69,65 +69,78 @@ I'm Digital Nomad with a strong will to learn and research new technologies and 
 ## EXPERIENCE
 
 ▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
-
+<details><summary>Details</summary>
+<br>
 Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
-
-**Skills:** Mentoring · Teaching  
+<br><br>
+<strong>Skills:</strong> Mentoring · Teaching  
+</details>
 
 <br>
 
 ▣ [**Mentor** · GetMentor.dev · Part-time · Oct 2022 - Present](https://getmentor.dev/mentor/-sergey-romanenko-1303)
-
+<details><summary>Details</summary>
+<br>
 Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
-
-**Skills:** Mentoring · Teaching  
+<br><br>
+<strong>Skills:</strong> Mentoring · Teaching  
+</details>
 
 <br>
 
 ▣ [**Consulting Information Technology Specialist** · Freelance · Self-employed · Contract · Jan 2015 - Present](https://awilum.github.io/)
-
-- Full Stack Web Development, Testing and IT Consulting.
-- Open-Source Development.
-- Mentoring, Coaching, Teaching. 
-- Software Architect and Project Management.
-- Web interfaces standardisation.
-- Emails development.
-- Frontend and backend automation.
-- Frontend and backend architecture development.
-- Projects documentation development.
-- Projects localization with the help of Crowdin and Transifex.
-- Localization and Testing.
-- API Testing with Postman.
-- PHP and JS Unit Testing.
-- Manual Testing.
-- Testing documentation development.
-- Peromance Testing.
-- UI/UX Testing.
-
-**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
-
+<details><summary>Details</summary>
+<br>
+<ul>
+<li>Full Stack Web Development, Testing and IT Consulting.</li>
+<li>Open-Source Development.</li>
+<li>Mentoring, Coaching, Teaching.</li>
+<li>Software Architect and Project Management.</li>
+<li>Web interfaces standardisation.</li>
+<li>Emails development.</li>
+<li>Frontend and backend automation.</li>
+<li>Frontend and backend architecture development.</li>
+<li>Projects documentation development.</li>
+<li>Projects localization with the help of Crowdin and Transifex.</li>
+<li>Localization and Testing.</li>
+<li>API Testing with Postman.</li>
+<li>PHP and JS Unit Testing.</li>
+<li>Manual Testing.</li>
+<li>Testing documentation development.</li>
+<li>Peromance Testing.</li>
+<li>UI/UX Testing.</li>
+</ul>
+<br>
+<b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+</details>
+ 
 <br>
 
 ▣ [**Open Source Software Engineer** · GitHub · Sep 2010 - Present](https://github.com/Awilum)
-
+<details><summary>Details</summary>
+<br>
 I actively participate in developing, supporting and testing open-source projects. I am an active user of GitHub; I write code and find and report defects.
-
-**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+<br><br>
+<b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
+</details>
 
 <br>
 
 ▣ [**Senior Front End Developer** · Onix-Systems · Sep 2010 - May 2014](https://onix-systems.com/)
-
-- Frontend Web Development.
-- Web interfaces standardisation.
-- Modular development.
-- Frontend automation.
-- Frontend architecture development.
-- Projects documentation development.
-- Frontend Web Development.
-
-**Skills:** SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
-
+<details><summary>Details</summary>
+<br>
+<ul>
+<li>Frontend Web Development.</li>
+<li>Web interfaces standardisation.</li>
+<li>Modular development.</li>
+<li>Frontend automation.</li>
+<li>Frontend architecture development.</li>
+<li>Projects documentation development.</li>
+<li>Frontend Web Development.</li>
+</ul>
+<br>
+<b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
+</details>
 <hr>
 
 <br>
@@ -163,7 +176,7 @@ Computer Engineering
 <br>
 
 ## MY COURSES
-| Name | Description | URL | 
+| Name | URL | 
 |---|---|
 | SQL - Structured Query Language | [Learn on Stepik](https://stepik.org/course/132225/promo) |
 
