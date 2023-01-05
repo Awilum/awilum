@@ -164,8 +164,8 @@ Computer Engineering
 
 ## MY COURSES
 | Name | Description | URL | 
-|---|---|---|
-| SQL - Structured Query Language | SQL is a Structured Query Language designed specifically for managing and manipulating data stored in relational databases. In this course, you will learn the key features of SQL and how to work with SQL Databases. | [Learn on Stepik](https://stepik.org/course/132225/promo) |
+|---|---|
+| SQL - Structured Query Language | [Learn on Stepik](https://stepik.org/course/132225/promo) |
 
 <hr>
 
