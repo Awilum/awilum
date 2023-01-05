@@ -162,6 +162,15 @@ Computer Engineering
 
 <br>
 
+## MY COURSES
+| Name | Description | URL | 
+|---|---|---|---|---|
+| SQL - Structured Query Language | SQL is a Structured Query Language designed specifically for managing and manipulating data stored in relational databases. In this course, you will learn the key features of SQL and how to work with SQL Databases. | [Learn on Stepik](https://stepik.org/course/132225/promo) |
+
+<hr>
+
+<br>
+
 ## OPEN SOURCE
 
 As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects. My contribution to **429+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
