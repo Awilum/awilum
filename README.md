@@ -179,6 +179,7 @@ Computer Engineering
 | Name | URL | 
 |---|---|
 | SQL - Structured Query Language | [Learn on Stepik](https://stepik.org/course/132225/promo) |
+| JavaScript | in progress... |
 
 <hr>
 
