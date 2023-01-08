@@ -178,8 +178,8 @@ Computer Engineering
 ## MY COURSES
 | Name | URL | 
 |---|---|
-| SQL - Structured Query Language | [Learn on Stepik](https://stepik.org/course/132225/promo) |
-| JavaScript | in progress... |
+| Mastering the Fundamentals of SQL | [Learn on Stepik](https://stepik.org/course/132225/promo) |
+| Mastering the Fundamentals of JavaScript | [Learn on Stepik](https://stepik.org/course/133228/promo) |
 
 <hr>
 
