@@ -177,7 +177,7 @@ Computer Engineering
 
 ## MY COURSES
 | Name | Publish Date | URL | 
-|---|---|
+|---|---|---|
 | Mastering the Fundamentals of SQL | Jan 2023 | [Learn on Stepik](https://stepik.org/course/132225/promo) |
 | Mastering the Fundamentals of JavaScript | Jan 2023 | [Learn on Stepik](https://stepik.org/course/133228/promo) |
 
