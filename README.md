@@ -180,6 +180,7 @@ Computer Engineering
 |---|---|---|
 | SQL Fundamentals | Jan 2023 | [Learn on Stepik](https://stepik.org/course/132225/promo) |
 | JavaScript Fundamentals | Jan 2023 | [Learn on Stepik](https://stepik.org/course/133228/promo) |
+| SQL Базовый уровень | Jan 2023 | in development... |
 
 <hr>
 
