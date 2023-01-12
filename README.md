@@ -176,11 +176,11 @@ Computer Engineering
 <br>
 
 ## MY COURSES
-| Name | Publish Date | URL | 
-|---|---|---|
-| SQL Basic Level | Jan 2023 | [Learn on Stepik](https://stepik.org/course/132225/promo) |
-| JavaScript Basic Level | Jan 2023 | [Learn on Stepik](https://stepik.org/course/133228/promo) |
-| SQL Базовый уровень | Jan 2023 | in development... |
+| Name | Publish Date | Language | Free/Paid | URL | 
+|---|---|---|---|---|
+| SQL Basic Level | Jan 2023  | en | Free | [Learn on Stepik](https://stepik.org/course/132225/promo) |
+| JavaScript Basic Level | Jan 2023 | en | Free | [Learn on Stepik](https://stepik.org/course/133228/promo) |
+| SQL Базовый уровень | Jan 2023 | ru | n/a | in development... |
 
 <hr>
 
