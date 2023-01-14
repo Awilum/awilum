@@ -329,7 +329,7 @@ A set of decoupled and reusable packages that generates fake data for you.<br><b
 
 <hr>
 
-<h3><a href="https://github.com/wp-extends">Wordpress Plugins</a></h3>
+<h3><a href="https://github.com/wp-extends">Wordpress Extends</a></h3>
 <p>
 Plugins for <a href="https://github.com/WordPress/WordPress">@WordPress</a> created by <a href="https://github.com/awilum">@Awilum</a>
 </p>
