@@ -29,13 +29,6 @@ Sergey Romanenko
 <img height="24" alt="Twitter" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg" width="100%">
 </picture>
 </a>&nbsp;&nbsp;
-<a href="http://instagram.com/sergey.romanenko/">
-<picture height="24">
-<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram-white.svg">
-<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg">
-<img height="24" alt="Instagram" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/instagram.svg" width="100%">
-</picture>
-</a>&nbsp;&nbsp;
 <a href="https://awilum.t.me">
 <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/telegram-white.svg">
