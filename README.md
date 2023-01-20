@@ -162,6 +162,7 @@ Computer Engineering
 | Operators in MySQL | Great Learning | Dec 2022 | 65087 | [view certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/1998518/original/Sergey_Romanenko20221227-64-1ty4eah.jpg) |
 | Software Testing: Postman for API Testing | Stepik | Dec 2022 | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
 | HTML Tranier with plugin Emmet | Stepik | Dec 2022 | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
+| SQL Basic Level | Stepik | Jan 2023 | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
 
 
 <hr>
