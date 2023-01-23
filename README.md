@@ -61,6 +61,17 @@ I'm Digital Nomad with a strong will to learn and research new technologies and 
 
 ## EXPERIENCE
 
+
+▣ [**Instructor** · Stepik · Part-time · Jan 2023 - Present](https://stepik.org/users/561566563)
+<details><summary>Details</summary>
+<br>
+E-Learning Instructor, sharing my coding knowledge and offering programming courses with online learners through the internet.
+<br><br>
+<strong>Skills:</strong> Teaching  
+</details>
+
+<br>
+
 ▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
 <details><summary>Details</summary>
 <br>
