@@ -54,7 +54,7 @@ Sergey Romanenko
 <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book-white.svg">
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg">
-<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg" width="100%">
+<img height="24" alt="Stepik" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg" width="100%">
 </picture>
 </a>
 <br><br>
