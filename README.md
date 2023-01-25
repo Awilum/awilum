@@ -49,12 +49,12 @@ Sergey Romanenko
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg">
 <img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
 </picture>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://stepik.org/users/561566563">
 <picture height="24">
-<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon-white.svg">
-<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg">
-<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg">
+<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg" width="100%">
 </picture>
 </a>
 <br><br>
