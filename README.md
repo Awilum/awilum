@@ -50,6 +50,13 @@ Sergey Romanenko
 <img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
 </picture>
 </a>
+<a href="https://stepik.org/users/561566563">
+<picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon-white.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg">
+<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
+</picture>
+</a>
 <br><br>
 <p>
 I'm Digital Nomad with a strong will to learn and research new technologies and architectural solutions. I like creating and using specialised tools to make development processes as efficient as possible. I have experience with big projects and big development teams.
