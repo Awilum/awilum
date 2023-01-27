@@ -137,7 +137,7 @@ I actively participate in developing, supporting and testing open-source project
 
 <br>
 
-▣ [**Senior Front End Developer** · Onix-Systems · Sep 2010 - May 2014](https://onix-systems.com/)
+▣ [**Senior Front End Developer** · Onix-Systems · Jun 2013 - May 2014](https://onix-systems.com/)
 <details><summary>Details</summary>
 <br>
 <ul>
@@ -154,6 +154,43 @@ I actively participate in developing, supporting and testing open-source project
 </details>
 <hr>
 
+
+▣ [**Front End Developer** · Onix-Systems · Jan 2011 - Jun 2013](https://onix-systems.com/)
+<details><summary>Details</summary>
+<br>
+<ul>
+<li>Frontend Web Development.</li>
+<li>Web interfaces standardisation.</li>
+</ul>
+<br>
+<b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
+</details>
+<hr>
+
+▣ [**Software Engineer** · Onix-Systems · Sep 2010 - Jan 2011](https://onix-systems.com/)
+<details><summary>Details</summary>
+<br>
+<ul>
+<li>WordPress plugins and themes development. </li>
+<li>PHP development using PHP frameworks Yii, Symfony, CI.</li>
+</ul>
+<br>
+<b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
+</details>
+<hr>
+
+▣ [**Software Engineer** · Freelance · Sep 2005 - Sep 2010](https://onix-systems.com/)
+<details><summary>Details</summary>
+<br>
+<ul>
+<li>Web Development using PHP (WordPress, SMF, phpBB, PunBB, CI)</li>
+<li>Software Development using Borland Delphi and Free Pascal.</li>
+<li>Games Development and Game Engines Development.</li>
+</ul>
+<br>
+<b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
+</details>
+<hr>
 <br>
 
 ## EDUCATION
