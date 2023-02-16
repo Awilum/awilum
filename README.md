@@ -152,8 +152,8 @@ I actively participate in developing, supporting and testing open-source project
 <br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
 </details>
-<hr>
 
+<br>
 
 ▣ [**Front End Developer** · Onix-Systems · Jan 2011 - Jun 2013](https://onix-systems.com/)
 <details><summary>Details</summary>
@@ -165,7 +165,8 @@ I actively participate in developing, supporting and testing open-source project
 <br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
 </details>
-<hr>
+
+<br>
 
 ▣ [**Software Engineer** · Onix-Systems · Sep 2010 - Jan 2011](https://onix-systems.com/)
 <details><summary>Details</summary>
@@ -177,7 +178,8 @@ I actively participate in developing, supporting and testing open-source project
 <br>
 <b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
 </details>
-<hr>
+
+<br>
 
 ▣ [**Software Engineer** · Freelance · Sep 2005 - Sep 2010](https://onix-systems.com/)
 <details><summary>Details</summary>
