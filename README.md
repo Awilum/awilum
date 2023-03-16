@@ -206,7 +206,7 @@ Computer Engineering
 
 ## LICENSES & CERTIFICATIONS
 | Name | Issuing organization | Credential ID | Credential URL | 
-|---|---|---|---|---|
+|---|---|---|---|
 | SQL | Sololearn | CT-IJGG7KV0 | [view certificate](https://www.sololearn.com/Certificate/CT-IJGG7KV0/png) |
 | Introduction to SQL | Sololearn | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
 | Introduction to JavaScript | Sololearn  | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
