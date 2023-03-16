@@ -211,7 +211,7 @@ Computer Engineering
 | Introduction to SQL | Sololearn | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
 | Introduction to JavaScript | Sololearn  | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
 | Web Development Fundamentals | Sololearn | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-06RN5P56/png) |
-| CSS | Sololearn  CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
+| CSS | Sololearn  | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
 | HTML | Sololearn | CT-UFBKSUGL | [view certificate](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png) |
 | PHP | Sololearn | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
 | PHP | Great Learning | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
