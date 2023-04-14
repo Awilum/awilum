@@ -229,10 +229,9 @@ Computer Engineering
 ## MY COURSES
 | Name | Publish Date | Language | Free/Paid | URL | 
 |---|---|---|---|---|
-| SQL Introduction | Jan 2023  | en | Free | [Learn on Stepik](https://stepik.org/course/a/133228) |
-| JavaScript Introduction | Jan 2023 | en | Free | [Learn on Stepik](https://stepik.org/a/132225) |
 | SQL Базовый уровень | Jan 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/133728) |
 | JavaScript Базовый уровень | Mar 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/134850) |
+| JavaScript Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/172576) |
 
 <hr>
 
