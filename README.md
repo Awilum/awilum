@@ -220,7 +220,9 @@ Computer Engineering
 | Software Testing: Postman for API Testing | Stepik | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
 | HTML Tranier with plugin Emmet | Stepik | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
 | SQL Basic Level | Stepik | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
-
+| JavaScript Basic Level | Stepik | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
+| JavaScript Trainer | Stepik | 2029238 | [view certificate](https://stepik.org/cert/2029238) |
+| Python Trainer | Stepik | 2045974 | [view certificate](https://stepik.org/cert/2045974) |
 
 <hr>
 
@@ -232,6 +234,7 @@ Computer Engineering
 | SQL Базовый уровень | Jan 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/133728) |
 | JavaScript Базовый уровень | Mar 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/134850) |
 | JavaScript Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/172576) |
+| Python Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/173184) |
 
 <hr>
 
@@ -239,7 +242,7 @@ Computer Engineering
 
 ## OPEN SOURCE
 
-As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects. My contribution to **429+ repositories** is over **23k+ commits** and around **2.5m+ lines of code** to date.
+As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects. My contribution to **430+ repositories** is over **25k+ commits** and around **3m+ lines of code** to date.
 
 <hr>
 
