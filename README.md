@@ -196,10 +196,8 @@ I actively participate in developing, supporting and testing open-source project
 <br>
 
 ## EDUCATION
-<b>Central Ukrainian National Technical University</b><br>
-Computer Engineering<br>
-Skills: C/C++, Object Pascal, Delphi, ASM86, CISCO, PHP, HTML, CSS, JavaScript, SQL<br>
-2006 - 2010
+▣ **Computer Engineering** · Central Ukrainian National Technical University · 2006 - 2010<br>
+⇢ **Skills:** C/C++, Object Pascal, Delphi, ASM86, CISCO, PHP, HTML, CSS, JavaScript, SQL<br>
 
 <hr>
 
