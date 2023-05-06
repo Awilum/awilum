@@ -89,16 +89,6 @@ Assisting young professionals in refining their programming abilities and achiev
 
 <br>
 
-▣ [**Mentor** · GetMentor.dev · Part-time · Oct 2022 - Present](https://getmentor.dev/mentor/-sergey-romanenko-1303)
-<details><summary>Details</summary>
-<br>
-Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
-<br><br>
-<strong>Skills:</strong> Mentoring · Teaching  
-</details>
-
-<br>
-
 ▣ [**Consulting Information Technology Specialist** · Freelance · Self-employed · Contract · Jan 2015 - Present](https://awilum.github.io/)
 <details><summary>Details</summary>
 <br>
