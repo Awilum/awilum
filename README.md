@@ -178,6 +178,7 @@ I actively participate in developing, supporting and testing open-source project
 <li>Web Development using PHP (WordPress, SMF, phpBB, PunBB, CI)</li>
 <li>Software Development using Borland Delphi and Free Pascal.</li>
 <li>Games Development and Game Engines Development.</li>
+<li>PASCALGAMES dot NET - Community Founder and Lead Developer.</li>
 </ul>
 <br>
 <b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
