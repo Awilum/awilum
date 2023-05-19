@@ -63,7 +63,7 @@ I'm Digital Nomad with a strong will to learn and research new technologies and 
 </p>
 
 <hr>
-<h4> Navigate to: <a href="#EXPERIENCE">EXPERIENCE</a> · <a href="#EDUCATION">EDUCATION</a> · <a href="#LICENSES & CERTIFICATIONS">LICENSES & CERTIFICATIONS</a> · <a href="#MY COURSES">MY COURSES</a> · <a href="#OPEN SOURCE">OPEN SOURCE</a> · <a href="#SUPPORT ME">♡</a></h4>
+<h4> Navigate to: <a href="#experince">EXPERIENCE</a> · <a href="#education">EDUCATION</a> · <a href="#licenses---Scertification">LICENSES & CERTIFICATIONS</a> · <a href="#my-courses">MY COURSES</a> · <a href="#open-source">OPEN SOURCE</a> · <a href="#support-me">SUPPORT ME</a></h4>
 <hr>
 
 <br>
