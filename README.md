@@ -213,6 +213,7 @@ I actively participate in developing, supporting and testing open-source project
 | JavaScript Basic Level | Stepik | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
 | JavaScript Trainer | Stepik | 2029238 | [view certificate](https://stepik.org/cert/2029238) |
 | Python Trainer | Stepik | 2045974 | [view certificate](https://stepik.org/cert/2045974) |
+| PHP Trainer | Stepik | 2059257 | [view certificate](https://stepik.org/cert/2059257) |
 
 <hr>
 
@@ -225,6 +226,7 @@ I actively participate in developing, supporting and testing open-source project
 | JavaScript Базовый уровень | Mar 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/134850) |
 | JavaScript Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/172576) |
 | Python Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/173184) |
+| PHP Тренажер | May 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/174887) |
 
 <hr>
 
