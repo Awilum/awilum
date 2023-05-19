@@ -80,7 +80,7 @@ With a wealth of practical experience and a passion for people development, I st
 ▣ [**Instructor** · Stepik · Part-time · Jan 2023 - Present](https://stepik.org/users/561566563)
 <details><summary>Details</summary>
 <br>
-E-Learning Instructor, sharing my coding knowledge and offering programming courses with online learners through the internet.
+E-Learning Instructor, I actively share my extensive coding knowledge and expertise by offering comprehensive programming courses to online learners. Through interactive online platforms, I engage with students, facilitating their understanding and mastery of various programming concepts. By staying abreast of the latest advancements, I ensure that the courses I provide are up-to-date and relevant, equipping learners with the necessary skills to excel in their chosen field.
 <br><br>
 <strong>Skills:</strong> Teaching  
 </details>
@@ -90,7 +90,7 @@ E-Learning Instructor, sharing my coding knowledge and offering programming cour
 ▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
 <details><summary>Details</summary>
 <br>
-Assisting young professionals in refining their programming abilities and achieving their goals in the IT industry.
+Assisting young professionals in refining their programming abilities and guiding them towards achieving their goals in the dynamic IT industry. By providing guidance, support, and practical advice, I empower them to reach their full potential.
 <br><br>
 <strong>Skills:</strong> Mentoring · Teaching  
 </details>
