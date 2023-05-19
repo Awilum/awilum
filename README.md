@@ -63,7 +63,7 @@ I'm Digital Nomad with a strong will to learn and research new technologies and 
 </p>
 
 <hr>
-<h4> NAVIGATE TO: <a href="#experince">EXPERIENCE</a> · <a href="#education">EDUCATION</a> · <a href="#licenses---Scertification">licenses--certifications</a> · <a href="#my-courses">MY COURSES</a> · <a href="#open-source">OPEN SOURCE</a> · <a href="#support-me">SUPPORT ME</a></h4>
+<h4> NAVIGATE TO: <a href="#experince">EXPERIENCE</a> · <a href="#education">EDUCATION</a> · <a href="#certificates">CERTIFICATES</a> · <a href="#my-courses">MY COURSES</a> · <a href="#open-source">OPEN SOURCE</a> · <a href="#support-me">SUPPORT ME</a></h4>
 <hr>
 
 <br>
@@ -196,7 +196,7 @@ I actively participate in developing, supporting and testing open-source project
 
 <br>
 
-## LICENSES & CERTIFICATIONS
+## CERTIFICATES
 | Name | Issuing organization | Credential ID | Credential URL | 
 |---|---|---|---|
 | SQL | Sololearn | CT-IJGG7KV0 | [view certificate](https://www.sololearn.com/Certificate/CT-IJGG7KV0/png) |
