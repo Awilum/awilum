@@ -87,7 +87,7 @@ E-Learning Instructor, I actively share my extensive coding knowledge and expert
 
 <br>
 
-▣ [**Mentor** · Solvery.io · Part-time · Oct 2022 - Present](https://solvery.io/ru/mentor/awilum)
+▣ [**Mentor** · Solvery.io · Part-time · Dec 2022 - Present](https://solvery.io/ru/mentor/awilum)
 <details><summary>Details</summary>
 <br>
 Assisting young professionals in refining their programming abilities and guiding them towards achieving their goals in the dynamic IT industry. By providing guidance, support, and practical advice, I empower them to reach their full potential.
