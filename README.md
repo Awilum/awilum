@@ -235,6 +235,7 @@ I actively participate in developing, supporting and testing open-source project
 | JavaScript Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/172576) |
 | Python Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/173184) |
 | PHP Тренажер | May 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/174887) |
+| Go Тренажер | June 2023 | ru | Paid | in progress... |
 
 <hr>
 
@@ -242,7 +243,7 @@ I actively participate in developing, supporting and testing open-source project
 
 ## OPEN SOURCE
 
-As an avid supporter of the open source community, I wholeheartedly engage in the development, support, and testing of various open source projects. I am an active user of GitHub, where I actively write code, discover and report defects, and contribute to a plethora of open source projects. My contribution to **430+ repositories** is over **25k+ commits** and around **3m+ lines of code** to date.
+As a passionate advocate for the open source community, I enthusiastically dedicate myself to the development, support, and testing of diverse open source projects. With an active presence on GitHub, I actively write code, diligently identify and report issues, and actively contribute to a wide array of open source endeavors.
 
 <hr>
 
