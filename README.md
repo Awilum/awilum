@@ -236,6 +236,7 @@ I actively participate in developing, supporting and testing open-source project
 | Python Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/173184) |
 | PHP Тренажер | May 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/174887) |
 | Go Тренажер | June 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/175966) |
+| JavaScript Продвинутый уровень | XXXX XXXX | ru | Paid | in progres... |
 
 <hr>
 
