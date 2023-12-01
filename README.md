@@ -62,7 +62,7 @@ With a wealth of practical experience and a passion for people development, I st
 </p>
 
 <hr>
-<h4> NAVIGATE TO: <a href="#experience">EXPERIENCE</a> · <a href="#education">EDUCATION</a> · <a href="#certificates">CERTIFICATES</a> · <a href="#my-courses">MY COURSES</a> · <a href="#open-source">OPEN SOURCE</a> · <a href="#support-me">SUPPORT ME</a></h4>
+<h4> NAVIGATE TO: <a href="#experience">EXPERIENCE</a> · <a href="#education">EDUCATION</a> · <a href="#my-courses">MY COURSES</a> · <a href="#open-source">OPEN SOURCE</a> · <a href="#support-me">SUPPORT ME</a></h4>
 <hr>
 
 <br><br>
@@ -195,8 +195,8 @@ My experience also encompassed game development and the creation of game engines
 ▣ **Computer Engineering** · CUNT · 2006 - 2010<br>
 During my studies in the "Computer Engineering (System Programmer)" program at Central Ukrainian National Technical University, from September 2006 to September 2010, I acquired extensive skills in the field of information technology and programming. My educational path was aimed at developing a deep technical understanding and practical skills, providing me with a strong foundation for a successful career in IT.  
 
-My education included the study of programming languages such as C, C++, and ASM86, expanding my technical arsenal and ensuring a profound understanding of system programming. I also gained experience working with the Linux operating system, which gave me insights into the principles of operation and administration in an open-source environment.
-⇢ **Skills:** C/C++, Object Pascal, Delphi, ASM86, CISCO, PHP, HTML, CSS, JavaScript, SQL<br>
+My education included the study of programming languages such as C, C++, and ASM86, expanding my technical arsenal and ensuring a profound understanding of system programming. I also gained experience working with the Linux operating system, which gave me insights into the principles of operation and administration in an open-source environment.<br>
+<b>Skills:</b> C/C++, Object Pascal, Delphi, ASM86, CISCO, PHP, HTML, CSS, JavaScript, SQL<br>
 
 <hr>
 
@@ -205,6 +205,7 @@ My education included the study of programming languages such as C, C++, and ASM
 ## MY COURSES
 | Name | Publish Date | Language | Free/Paid | URL | 
 |---|---|---|---|---|
+| SQL Introduction | Jan 2023 | en | Free | [Learn on Stepik](https://stepik.org/course/132225/promo) |
 | SQL Базовый уровень | Jan 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/133728) |
 | JavaScript Базовый уровень | Mar 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/134850) |
 | JavaScript Тренажер | Apr 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/172576) |
