@@ -80,7 +80,13 @@ With a wealth of practical experience and a passion for people development, I st
 ▣ [**Instructor** · Stepik · Part-time · Jan 2023 - Present](https://stepik.org/users/561566563)
 <details><summary>Details</summary>
 <br>
-E-Learning Instructor, I actively share my extensive coding knowledge and expertise by offering comprehensive programming courses to online learners. Through interactive online platforms, I engage with students, facilitating their understanding and mastery of various programming concepts. By staying abreast of the latest advancements, I ensure that the courses I provide are up-to-date and relevant, equipping learners with the necessary skills to excel in their chosen field.
+As an instructor for online learning at Stepik, I deliver comprehensive programming courses, sharing my knowledge and extensive experience in the field. My mission is to provide students with well-rounded and up-to-date knowledge necessary for a successful career in software development.  
+
+I actively engage with students through the Stepik online platform, creating structured courses that facilitate a deep understanding and mastery of key programming concepts. My approach is geared towards stimulating interest and active learning, contributing to more effective education.  
+
+Constantly monitoring the latest trends and advancements in programming, I ensure that my courses remain relevant and meet the industry's modern requirements. My educational material aims not only to impart technical skills but also to cultivate practical abilities essential for the successful application of knowledge in real-world projects.  
+
+My teaching skills encompass not only technical expertise but also the ability to communicate effectively with a diverse audience. My work on the Stepik platform seeks not only to provide students with knowledge but also to inspire them to continuously strive for self-improvement and the achievement of their goals in the field of software development.
 <br><br>
 <strong>Skills:</strong> Teaching  
 </details>
@@ -90,7 +96,13 @@ E-Learning Instructor, I actively share my extensive coding knowledge and expert
 ▣ [**Mentor** · Solvery.io · Part-time · Dec 2022 - Present](https://solvery.io/ru/mentor/awilum)
 <details><summary>Details</summary>
 <br>
-Assisting young professionals in refining their programming abilities and guiding them towards achieving their goals in the dynamic IT industry. By providing guidance, support, and practical advice, I empower them to reach their full potential.
+In my role as a mentor at Solvery, I guide and support young professionals in their pursuit of honing programming skills and achieving goals in the dynamic field of information technology.  
+
+My responsibilities encompass a broad spectrum, ranging from providing recommendations and practical advice to offering training in various aspects of programming. My goal is to assist each mentee in unlocking their full potential, supporting them in the process of learning and development.  
+
+My approach involves individualized training tailored to the specific needs of each professional. I provide detailed guidance based on my programming experience, along with long-term support to effectively overcome challenges.  
+
+My mentoring experience enhances my ability to inspire and guide newcomers, providing them with the necessary knowledge and confidence in their abilities.
 <br><br>
 <strong>Skills:</strong> Mentoring · Teaching  
 </details>
@@ -100,25 +112,13 @@ Assisting young professionals in refining their programming abilities and guidin
 ▣ [**Consulting Information Technology Specialist** · Freelance · Self-employed · Contract · Jan 2015 - Present](https://awilum.github.io/)
 <details><summary>Details</summary>
 <br>
-<ul>
-<li>Full Stack Web Development, Testing and IT Consulting.</li>
-<li>Open-Source Development.</li>
-<li>Mentoring, Coaching, Teaching.</li>
-<li>Software Architect and Project Management.</li>
-<li>Web interfaces standardisation.</li>
-<li>Emails development.</li>
-<li>Frontend and backend automation.</li>
-<li>Frontend and backend architecture development.</li>
-<li>Projects documentation development.</li>
-<li>Projects localization with the help of Crowdin and Transifex.</li>
-<li>Localization and Testing.</li>
-<li>API Testing with Postman.</li>
-<li>PHP and JS Unit Testing.</li>
-<li>Manual Testing.</li>
-<li>Testing documentation development.</li>
-<li>Peromance Testing.</li>
-<li>UI/UX Testing.</li>
-</ul>
+In my role as an IT Consultant, I lead the development of full-stack applications, ensuring their high quality and performance. My responsibilities encompass a wide range of duties, spanning from development and testing to providing consultancy on information technologies.  
+
+My achievements include active participation in the development of Open Source projects, highlighting my contribution to open-source development. Throughout my work, I have been involved in software architecture development and project management, facilitating the effective implementation of various solutions.  
+
+Additionally, I have been engaged in mentoring. My activities also involved standardizing web interfaces, automating frontend and backend development processes, and creating project documentation.  
+
+In the field of project localization, I successfully utilized Crowdin and Transifex, ensuring the multilingual capability of applications. My experience includes not only development but also testing, including API testing using tools like Postman and others, as well as functional testing in PHP and JavaScript.  
 <br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
 </details>
@@ -127,8 +127,13 @@ Assisting young professionals in refining their programming abilities and guidin
 
 ▣ [**Open Source Software Engineer** · GitHub · Sep 2010 - Present](https://github.com/Awilum)
 <details><summary>Details</summary>
-<br>
-I actively participate in developing, supporting and testing open-source projects. I am an active user of GitHub; I write code and find and report defects.
+<br>As a developer involved in open-source projects, I actively contribute to the development, support, and testing of various projects. My focus is on creating high-quality software that is accessible to the community and geared towards open interaction.  
+
+As an active participant on GitHub, I engage in project development by leveraging my coding skills and identifying/reporting potential improvements and issues.  
+
+My technical skills span a broad range of technologies, including Symfony Framework, MySQL, SQL, Web Development, Front-end (JavaScript, CSS, HTML), PHP, REST APIs, and development tools such as Git, GruntJS, LESS, SASS, GulpJS, Parcel, Node.js. These skills enable me to effectively collaborate on diverse projects and make a meaningful contribution.  
+
+My involvement in the open-source community extends to QA Engineering, where I strive to uphold a high standard of software quality. My activities go beyond coding; I actively ensure the reliability and security of the projects I engage with.
 <br><br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js · Open Source · QA Engineering · Quality Assurance
 </details>
@@ -138,15 +143,17 @@ I actively participate in developing, supporting and testing open-source project
 ▣ [**Senior Front End Developer** · Onix-Systems · Jun 2013 - May 2014](https://onix-systems.com/)
 <details><summary>Details</summary>
 <br>
-<ul>
-<li>Frontend Web Development.</li>
-<li>Web interfaces standardisation.</li>
-<li>Modular development.</li>
-<li>Frontend automation.</li>
-<li>Frontend architecture development.</li>
-<li>Projects documentation development.</li>
-<li>Frontend Web Development.</li>
-</ul>
+In the role of Senior Front End Developer at Onix-Systems, I successfully implemented advanced methodologies and technologies into web application development.  
+
+My contributions included the development of internal frontend frameworks to ensure consistency and optimize the development process. Under my guidance, modular development was introduced, allowing for a more flexible approach to creating and updating the functionality of web applications.  
+
+A key element of my work was the automation of frontend development and testing processes using tools such as GruntJS, GulpJS, Bower, and Webpack. This significantly increased the team's efficiency and ensured a high level of stability and reliability in the overall codebase of projects.  
+
+In the realm of frontend architecture, I actively participated in designing highly efficient and scalable systems. Additionally, I led the standardization of web interfaces, ensuring a cohesive and modern appearance.  
+
+My responsibilities also encompassed the development of project documentation, contributing to the ease of maintenance and understanding of the codebase. My skills included not only proficiency in JavaScript, CSS, and HTML but also the development and utilization of REST APIs and version control tools such as GIT and Mercurial.
+
+Furthermore, I actively collaborated with an international team, effectively communicating in English.
 <br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
 </details>
@@ -156,10 +163,9 @@ I actively participate in developing, supporting and testing open-source project
 ▣ [**Front End Developer** · Onix-Systems · Jan 2011 - Jun 2013](https://onix-systems.com/)
 <details><summary>Details</summary>
 <br>
-<ul>
-<li>Frontend Web Development.</li>
-<li>Web interfaces standardisation.</li>
-</ul>
+As a Front End Developer at Onix-Systems, I was involved in the development of frontend web applications, actively contributing to the creation of user-friendly interfaces. My responsibilities also included the creation and optimization of internal frontend frameworks, significantly improving the efficiency and consistency of our projects.  
+
+One of the key aspects of my work was the standardization of web interfaces, ensuring a high level of quality and consistency in the appearance of our products. My frontend development skills encompassed proficiency in programming languages such as JavaScript, along with a deep understanding of CSS and HTML. These skills, combined with my knowledge in SEO, allowed me to create not only visually appealing and intuitive interfaces but also to ensure optimal visibility of our web applications in search engines.
 <br>
 <b>Skills:</b> SQL · Web Development · Front-end · JavaScript · CSS · HTML · PHP · REST APIs · SEO · Git · GruntJS · LESS · GulpJS · Node.js
 </details>
@@ -169,25 +175,23 @@ I actively participate in developing, supporting and testing open-source project
 ▣ [**Software Engineer** · Onix-Systems · Sep 2010 - Jan 2011](https://onix-systems.com/)
 <details><summary>Details</summary>
 <br>
-<ul>
-<li>WordPress plugins and themes development. </li>
-<li>PHP development using PHP frameworks Yii, Symfony, CI.</li>
-</ul>
+From September 2010 to January 2011, I was engaged in developing individual plugins and themes for the WordPress platform. My work also involved using PHP in conjunction with frameworks such as Yii, Symfony, and CodeIgniter to ensure high performance and efficiency of the solutions being developed.  
+
+During the development process, I actively applied my skills in working with various database technologies, such as PostgreSQL, MongoDB, and MySQL, allowing me to create flexible and scalable web applications.
 <br>
 <b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
 </details>
 
 <br>
 
-▣ [**Software Engineer** · Freelance · Sep 2005 - Sep 2010](https://onix-systems.com/)
+▣ [**Software Engineer** · Freelance · Sep 2004 - Sep 2010](https://awilum.ru/)
 <details><summary>Details</summary>
 <br>
-<ul>
-<li>Web Development using PHP (WordPress, SMF, phpBB, PunBB, CI)</li>
-<li>Software Development using Borland Delphi and Free Pascal.</li>
-<li>Games Development and Game Engines Development.</li>
-<li>PASCALGAMES dot NET - Community Founder and Lead Developer.</li>
-</ul>
+From September 2005 to September 2010, I was involved in web development, using PHP to create various web projects utilizing WordPress, SMF, phpBB, PunBB, and CodeIgniter. My expertise in PHP allowed me to effectively tackle tasks and build functional and dynamic websites.  
+
+In addition to this, I also engaged in software development using Borland Delphi and Free Pascal. This involved creating custom software solutions for the Windows operating system.  
+
+My experience also encompassed game development and the creation of game engines. A significant part of my activities was founding and leading the PASCALGAMES dot NET community, where I published articles and other materials about game development.   
 <br>
 <b>Skills:</b> PostgreSQL · WordPress · Symfony Framework · Yii · MongoDB · MySQL · SQL · PHP
 </details>
@@ -195,33 +199,11 @@ I actively participate in developing, supporting and testing open-source project
 <br>
 
 ## EDUCATION
-▣ **Computer Engineering** · Central Ukrainian National Technical University · 2006 - 2010<br>
+▣ **Computer Engineering** · CUNT · 2006 - 2010<br>
+During my studies in the "Computer Engineering (System Programmer)" program at Central Ukrainian National Technical University, from September 2006 to September 2010, I acquired extensive skills in the field of information technology and programming. My educational path was aimed at developing a deep technical understanding and practical skills, providing me with a strong foundation for a successful career in IT.  
+
+My education included the study of programming languages such as C, C++, and ASM86, expanding my technical arsenal and ensuring a profound understanding of system programming. I also gained experience working with the Linux operating system, which gave me insights into the principles of operation and administration in an open-source environment.
 ⇢ **Skills:** C/C++, Object Pascal, Delphi, ASM86, CISCO, PHP, HTML, CSS, JavaScript, SQL<br>
-
-<hr>
-
-<br>
-
-## CERTIFICATES
-| Name | Issuing organization | Credential ID | Credential URL | 
-|---|---|---|---|
-| SQL | Sololearn | CT-IJGG7KV0 | [view certificate](https://www.sololearn.com/Certificate/CT-IJGG7KV0/png) |
-| Introduction to SQL | Sololearn | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CC-7URXVEDM/png) |
-| Introduction to JavaScript | Sololearn  | CC-UOXBIDWP | [view certificate](https://www.sololearn.com/Certificate/CC-UOXBIDWP/png) |
-| Web Development Fundamentals | Sololearn | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-06RN5P56/png) |
-| CSS | Sololearn  | CC-7URXVEDM | [view certificate](https://www.sololearn.com/Certificate/CT-FCW8IPJG/png) |
-| HTML | Sololearn | CT-UFBKSUGL | [view certificate](https://www.sololearn.com/Certificate/CT-UFBKSUGL/png) |
-| PHP | Sololearn | CT-Y6ZUZFRN | [view certificate](https://www.sololearn.com/Certificate/CT-Y6ZUZFRN/png) |
-| PHP | Great Learning | 1943311 | [view certificate](https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/1943311/original/Sergey_Romanenko20221212-64-1jcre2x.jpg) |
-| Joins in SQL | Great Learning | 64937 | [view certificate](https://media.licdn.com/dms/image/C5622AQHKbxsfJkG4qw/feedshare-shrink_800/0/1672126317414?e=1675296000&v=beta&t=rqglFkPaMw-BO4sYZghALckWtM0JkvKnnzd1ar2bAwk) |
-| Operators in MySQL | Great Learning | 65087 | [view certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/1998518/original/Sergey_Romanenko20221227-64-1ty4eah.jpg) |
-| Software Testing: Postman for API Testing | Stepik | 1866825 | [view certificate](https://stepik.org/cert/1866825) |
-| HTML Tranier with plugin Emmet | Stepik | 1865662 | [view certificate](https://stepik.org/cert/1865662) |
-| SQL Basic Level | Stepik | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
-| JavaScript Basic Level | Stepik | 1916248 | [view certificate](https://stepik.org/cert/1916248) |
-| JavaScript Trainer | Stepik | 2029238 | [view certificate](https://stepik.org/cert/2029238) |
-| Python Trainer | Stepik | 2045974 | [view certificate](https://stepik.org/cert/2045974) |
-| PHP Trainer | Stepik | 2059257 | [view certificate](https://stepik.org/cert/2059257) |
 
 <hr>
 
@@ -237,6 +219,7 @@ I actively participate in developing, supporting and testing open-source project
 | PHP Тренажер | May 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/174887) |
 | Go Тренажер | June 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/175966) |
 | JavaScript Продвинутый уровень | Aug 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/177315) |
+| Kotlin Тренажер | Nov 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/187934) |
 
 <hr>
 
