@@ -22,7 +22,7 @@ Sergey Romanenko
 <img height="24" alt="Linkedin" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/linkedin.svg" width="100%">
 </picture>
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/_awilum">
+<a href="https://twitter.com/awilum_">
 <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter-white.svg">
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/twitter.svg">
@@ -43,14 +43,7 @@ Sergey Romanenko
 <img height="24" alt="Mail" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mail.svg" width="100%">
 </picture>
 </a>&nbsp;&nbsp;
-<a href="https://phpc.social/@awilum">
-<picture height="24">
-<source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon-white.svg">
-<source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg">
-<img height="24" alt="Mastadon" src="https://raw.githubusercontent.com/Awilum/awilum/master/icons/mastadon.svg" width="100%">
-</picture>
-</a>&nbsp;&nbsp;
-<a href="https://dub.sh/stepik">
+<a href="https://awilum.ru/stepik/">
 <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book-white.svg">
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awilum/awilum/master/icons/book.svg">
