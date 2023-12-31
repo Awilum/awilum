@@ -214,6 +214,8 @@ My education included the study of programming languages such as C, C++, and ASM
 | Go Тренажер | June 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/175966) |
 | JavaScript Продвинутый уровень | Aug 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/177315) |
 | Kotlin Тренажер | Nov 2023 | ru | Paid | [Learn on Stepik](https://stepik.org/a/187934) |
+| JavaScript Тесты | Dec 2023 | ru | Free | [Learn on Stepik](https://awilum.ru/courses/javascript-tests) |
+| Markdown | Dec 2023 | ru | Free | [Learn on Stepik](https://stepik.org/course/187888/promo) |
 
 <hr>
 
