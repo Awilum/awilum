@@ -78,9 +78,9 @@ For me, technology and photography are simply two different ways of understandin
 
 ## Find Me Elsewhere
 
-- **Website:** https://sergeyromanenko.com/
-- **GitHub:** https://github.com/Awilum
-- **Telegram:** https://t.me/awilum
+- **Website:** [sergeyromanenko.com](https://sergeyromanenko.com)
+- **GitHub:** [https://github.com/Awilum](Awilum)
+- **Telegram:** [https://t.me/awilum](Awilum)
 
 ---
 
